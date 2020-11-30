@@ -1,0 +1,32 @@
+{
+  "imoveis": [
+    {
+      "code": 843,
+      "title": "Excelente Casa à venda no centro de Santa Terezinha de Itaipu",
+      "description": "Terreno amplo medindo 559 m² sendo 13 metros x 43 metros, todo gramado. \n Sisterna Jardinagem completa \n O proprietário estuda permuta por imóveis em Meia praia - SC. \n Para mais informações entre em contato com um de nossos corretores.",
+      "details": {
+        "Dormitorios": "3",
+        "Banheiros": "3",
+        "Garagem": "2",
+        "Sala": "1",
+        "Cozinha": "1",
+        "Suite": "1"
+      },
+      "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-parana-843-d843c99acc.jpg"
+    },
+    {
+      "code": 843,
+      "title": "VENDA DE CASA NO BNH, SANTA TEREZINHA DE ITAIPU ",
+      "description": "Casa com 02 quartos, sala de estar, cozinha, 01 banheiro social, lavanderia e 01 vaga de garagem.",
+      "details": {
+        "Dormitorios": "2",
+        "Banheiros": "1",
+        "Garagem": "1",
+        "Sala": "1",
+        "Cozinha": "1",
+        "Suite": ""
+      },
+      "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-parana-843-d843c99acc.jpg"
+    }
+  ]
+}
