@@ -5,28 +5,42 @@
       "title": "Excelente Casa à venda no centro de Santa Terezinha de Itaipu",
       "description": "Terreno amplo medindo 559 m² sendo 13 metros x 43 metros, todo gramado. \n Sisterna Jardinagem completa \n O proprietário estuda permuta por imóveis em Meia praia - SC. \n Para mais informações entre em contato com um de nossos corretores.",
       "details": {
-        "Dormitorios": "3",
-        "Banheiros": "3",
-        "Garagem": "2",
-        "Sala": "1",
-        "Cozinha": "1",
-        "Suite": "1"
+        "dormitorios": "3",
+        "banheiros": "3",
+        "garagem": "2",
+        "sala": "1",
+        "cozinha": "1",
+        "suite": "1"
       },
       "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-parana-843-d843c99acc.jpg"
     },
     {
-      "code": 843,
-      "title": "VENDA DE CASA NO BNH, SANTA TEREZINHA DE ITAIPU ",
-      "description": "Casa com 02 quartos, sala de estar, cozinha, 01 banheiro social, lavanderia e 01 vaga de garagem.",
+      "code": 840,
+      "title": "Casa no centro de Santa Terezinha de Itaipu à venda",
+      "description": "Excelente opção para investimento sendo que o imóvel já se encontra alugado!",
       "details": {
-        "Dormitorios": "2",
-        "Banheiros": "1",
-        "Garagem": "1",
-        "Sala": "1",
-        "Cozinha": "1",
-        "Suite": ""
+        "dormitorios": "3",
+        "banheiros": "3",
+        "garagem": "1",
+        "sala": "1",
+        "cozinha": "1",
+        "suite": "1"
       },
-      "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-parana-843-d843c99acc.jpg"
+      "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-parana-835-95cc9ee912.jpg"
+    },
+    {
+      "code": 841,
+      "title": "Excelente casa a venda no Jardim Iguaçu em Santa Terezinha de Itaipu, o imovel",
+      "description": "Casa em laje, medindo 80 m² de casa mais 28 m² de edícula, terreno de 300 m²",
+      "details": {
+        "dormitorios": "2",
+        "banheiros": "2",
+        "garagem": "2",
+        "sala": "1",
+        "cozinha": "1",
+        "suite": "0"
+      },
+      "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-parana-835-95cc9ee912.jpg"
     }
   ]
 }
