@@ -1,46 +1,3462 @@
 {
-  "imoveis": [
-    {
-      "code": 843,
-      "title": "Excelente Casa à venda no centro de Santa Terezinha de Itaipu",
-      "description": "Terreno amplo medindo 559 m² sendo 13 metros x 43 metros, todo gramado. \n Sisterna Jardinagem completa \n O proprietário estuda permuta por imóveis em Meia praia - SC. \n Para mais informações entre em contato com um de nossos corretores.",
-      "details": {
-        "dormitorios": "3",
-        "banheiros": "3",
-        "garagem": "2",
-        "sala": "1",
-        "cozinha": "1",
-        "suite": "1"
-      },
-      "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-parana-843-d843c99acc.jpg"
-    },
-    {
-      "code": 840,
-      "title": "Casa no centro de Santa Terezinha de Itaipu à venda",
-      "description": "Excelente opção para investimento sendo que o imóvel já se encontra alugado!",
-      "details": {
-        "dormitorios": "3",
-        "banheiros": "3",
-        "garagem": "1",
-        "sala": "1",
-        "cozinha": "1",
-        "suite": "1"
-      },
-      "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-parana-835-95cc9ee912.jpg"
-    },
-    {
-      "code": 841,
-      "title": "Excelente casa a venda no Jardim Iguaçu em Santa Terezinha de Itaipu, o imovel",
-      "description": "Casa em laje, medindo 80 m² de casa mais 28 m² de edícula, terreno de 300 m²",
-      "details": {
-        "dormitorios": "2",
-        "banheiros": "2",
-        "garagem": "2",
-        "sala": "1",
-        "cozinha": "1",
-        "suite": "0"
-      },
-      "image": "https://www.imobiliariam3.com/images/items/g/casa-no-jardim-iguacu-santa-terezinha-de-itaipu-parana-841-04299ae621.jpg"
+  "imoveis": 
+  {
+    "code": 837,
+    "title": null,
+    "description": "<p>Casa no centro de Santa Terezinha de Itaipu à venda, o imóvel dispõe de:</p>\r\n\r\n<p>2 Quartos</p>\r\n\r\n<p>1 Sala de estar/jantar</p>\r\n\r\n<p>1 Cozinha</p>\r\n\r\n<p>1 Banheiro</p>\r\n\r\n<p>! Lavanderia coberta</p>\r\n\r\n<p>Garagem coberta para 2 veículos</p>\r\n\r\n<p>Área construída: 70 m&sup2;</p>\r\n\r\n<p>Terreno: 357 m&sup2;</p>\r\n\r\n<p>Para mais informações entre em contato com nossos corretores!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-parana-850-d412787d09.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
     }
-  ]
+  },
+  {
+    "code": 836,
+    "title": null,
+    "description": "<p>Casas à venda no Residencial San Martin em Foz do iguaçu;</p>\r\n\r\n<p>Parcelamento direto com a construtora, com entrada a partir de R$ 27.000,00 e saldo restante parcelado em ate 84 vezes corrigidos anualmente por 8% + IGPM.</p>\r\n\r\n<p>O imóvel dispõe de:<br />\r\n2 quartos<br />\r\nsala integrada com cozinha<br />\r\nBanheiro<br />\r\nLavanderia<br />\r\nGaragem descoberta para 1 veículo<br />\r\nÁrea construída de 50,34m&sup2;&nbsp;<br />\r\nTerreno com 91,65m&sup2;</p>\r\n\r\n<p>Para mais informações entre em contato com nossos corretores!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-Residencial-san-martin-foz-do-iguacu-parana-849-278b0cc734.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 835,
+    "title": null,
+    "description": "<p>Terrenos a venda no Loteamento Araucárias, no parque dos estados:</p>\r\n\r\n<p>418 m&sup2; sendo 12.50 metros de frente e 33 metros de fundo.</p>\r\n\r\n<p>Excelente localização, a 300 metros da BR 277.</p>\r\n\r\n<p>Parcelamento direto com a loteadora, com entrada minima de 20% e saldo parcelado em até 96 vezes.</p>\r\n\r\n<p>Para mais informações entre em contato com nossos corretores.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-parque-dos-estados-santa-terezinha-de-itaipu-parana-848-36cbcdbe7a.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 834,
+    "title": null,
+    "description": "<p>Terreno com casa mista a venda em Santa Terezinha de Itaipu;</p>\r\n\r\n<p>427 m&sup2; de terreno</p>\r\n\r\n<p>Excelente localização</p>\r\n\r\n<p>Para mais informações entre em contato com nossos corretores.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-centro-santa-terezinha-de-itaipu-parana-847-3f186b326f.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 833,
+    "title": null,
+    "description": "<p>Apartamento disponível para LOCAÇÃO, o imóvel dispõe de:</p>\r\n\r\n<p>2 quartos</p>\r\n\r\n<p>Sala</p>\r\n\r\n<p>Cozinha&nbsp;</p>\r\n\r\n<p>Banheiro</p>\r\n\r\n<p>Para mais informações entre em contato com um de nossos corretores!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-centro-santa-terezinha-de-itaipu-parana-846-43599e941e.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 832,
+    "title": null,
+    "description": "<p>Apartamento disponível para locação, o imóvel dispõe de:</p>\r\n\r\n<p>2 quartos</p>\r\n\r\n<p>salaa</p>\r\n\r\n<p>cozinha</p>\r\n\r\n<p>banheiro</p>\r\n\r\n<p>Para mais informações entre em contato com um de nossos corretores!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-centro-santa-terezinha-de-itaipu-parana-845-302038d940.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 831,
+    "title": null,
+    "description": "<p>Apartamento disponível para LOCAÇÃO, o imóvel dispõe de:</p>\r\n\r\n<p>3 quartos</p>\r\n\r\n<p>Sala</p>\r\n\r\n<p>Cozinha</p>\r\n\r\n<p>Lavanderia&nbsp;</p>\r\n\r\n<p>Banheiro</p>\r\n\r\n<p>Para mais informações entre em contato com um de nossos corretores!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-centro-santa-terezinha-de-itaipu-parana-844-06d8b1b3c4.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 830,
+    "title": null,
+    "description": "<p>Excelente Casa à venda no centro de Santa Terezinha de Itaipu, o imóvel dispõe de:</p>\r\n\r\n<p>Descritivo Casa:</p>\r\n\r\n<p>116 m&sup2;</p>\r\n\r\n<p>1 suíte&nbsp;</p>\r\n\r\n<p>1 quarto</p>\r\n\r\n<p>sala de jantar</p>\r\n\r\n<p>Sala de TV</p>\r\n\r\n<p>Cozinha planejada</p>\r\n\r\n<p>1 Banheiro</p>\r\n\r\n<p>1 vaga de garagem coberta</p>\r\n\r\n<p>Descrição Edícula:</p>\r\n\r\n<p>60 m&sup2;</p>\r\n\r\n<p>Lavanderia</p>\r\n\r\n<p>Churrasqueira á carvão</p>\r\n\r\n<p>Amplo living</p>\r\n\r\n<p>1 quarto</p>\r\n\r\n<p>1 banheiro</p>\r\n\r\n<p>Terreno amplo medindo 559 m&sup2; sendo 13 metros x 43 metros, todo gramado.</p>\r\n\r\n<p>Sisterna&nbsp;</p>\r\n\r\n<p>Jardinagem completa</p>\r\n\r\n<p>O proprietário estuda permuta por imóveis em Meia praia - SC.</p>\r\n\r\n<p>Para mais informações entre em contato com um de nossos corretores.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-parana-843-d843c99acc.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 829,
+    "title": null,
+    "description": "<p>Casa com 02 quartos, sala de estar, cozinha, 01 banheiro social, lavanderia e 01 vaga de garagem.&nbsp;&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-bnh-santa-terezinha-de-itaipu-pr-842-15ff57d3cc.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 828,
+    "title": null,
+    "description": "<p>Excelente casa a venda no Jardim Iguaçu em Santa Terezinha de Itaipu, o imovel dispõe de:</p>\r\n\r\n<p>2 Quartos<br />\r\nSala de estar/jantar<br />\r\nCozinha planejada<br />\r\nBanheiro<br />\r\nLavanderia<br />\r\nEdícula com churrasqueira e banheiro social<br />\r\nPiscina<br />\r\n2 vagas de garagem</p>\r\n\r\n<p>Casa em laje, medindo 80 m&sup2; de casa mais 28 m&sup2; de edícula<br />\r\nTerreno de 300 m&sup2;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-jardim-iguacu-santa-terezinha-de-itaipu-parana-841-04299ae621.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 827,
+    "title": null,
+    "description": "<p>Casa no centro de Santa Terezinha de Itaipu à venda:</p>\r\n\r\n<p>O imóvel dispõe de:</p>\r\n\r\n<p>3 quartos sendo 1 suíte</p>\r\n\r\n<p>Sala de estar/jantar</p>\r\n\r\n<p>Cozinha</p>\r\n\r\n<p>Banheiro&nbsp;</p>\r\n\r\n<p>Edícula com churrasqueira, dispensa e banheiro social</p>\r\n\r\n<p>Garagem coberta para 1 veículo</p>\r\n\r\n<p>Excelente opção para investimento sendo que o imóvel já se encontra alugado!</p>\r\n\r\n<p>Para mais informações entre em contato com nossos corretores.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-parana-835-95cc9ee912.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 826,
+    "title": null,
+    "description": "<p>Casa geminada no loteamento tarumã à venda:</p>\r\n\r\n<p>O imóvel dispõe de:</p>\r\n\r\n<p>Sala de estar/jantar</p>\r\n\r\n<p>Cozinha</p>\r\n\r\n<p>2 Quartos</p>\r\n\r\n<p>1 Banheiro</p>\r\n\r\n<p>Lavanderia</p>\r\n\r\n<p>Imovel todo em laje</p>\r\n\r\n<p>Área construída de 55,22m&sup2;&nbsp;</p>\r\n\r\n<p>Terreno 101,50m&sup2;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Para mais informações entre em contato com nossos corretores!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-taruma-santa-terezinha-de-itaipu-parana-839-e10a962ed7.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 825,
+    "title": null,
+    "description": "<p>Casa geminada no loteamento tarumã à venda:</p>\r\n\r\n<p>O imóvel dispõe de:</p>\r\n\r\n<p>Sala de estar/jantar</p>\r\n\r\n<p>Cozinha</p>\r\n\r\n<p>2 Quartos</p>\r\n\r\n<p>1 Banheiro</p>\r\n\r\n<p>Lavanderia</p>\r\n\r\n<p>Imovel todo em laje</p>\r\n\r\n<p>Área construída de 55,22m&sup2;&nbsp;</p>\r\n\r\n<p>Terreno 93,75m&sup2;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Para mais informações entre em contato com nossos corretores!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-taruma-santa-terezinha-de-itaipu-parana-838-b875c5576c.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 824,
+    "title": null,
+    "description": "<p>Terreno no Condominio Vale do Sol à venda:</p>\r\n\r\n<p>392 m&sup2; sendo 14 mts X 28 mts</p>\r\n\r\n<p>Face Leste, Sol da manhã</p>\r\n\r\n<p>Para mais informações entre em contato com nossos corretores!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-condominio-vale-do-sol-santa-terezinha-de-itaipu-parana-837-b2c45ddf45.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 823,
+    "title": null,
+    "description": "<p>Casa com 02 quartos, sala de estar, cozinha, 01 banheiro social, lavanderia e 01 vaga de garagem.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-bnh-santa-terezinha-de-itaipu-pr-835-9a741b9683.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 822,
+    "title": null,
+    "description": "<p>Casa com 03 quartos, sala de estar, sala de jantar, cozinha com churrasqueira, 01 banheiro social, lavanderia e 02 vagas de garagem.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-836-bd191bb1dc.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 821,
+    "title": null,
+    "description": "<p>Apartamento à venda no Condominio Residencial Cidade verão;</p>\r\n\r\n<p>o Apartamento dispõe de:</p>\r\n\r\n<p>3 quartos</p>\r\n\r\n<p>1 banheiro</p>\r\n\r\n<p>Sala de jantar/estar</p>\r\n\r\n<p>Cozinha</p>\r\n\r\n<p>Churrasqueira a carvão</p>\r\n\r\n<p>Lavanderia</p>\r\n\r\n<p>Com área total de 74,50 m&sup2;.</p>\r\n\r\n<p>Para mais&nbsp;informações entre em contato com um de nossos corretores.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-santa-terezinha-de-itaipu-parana-834-7096d20ed4.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 819,
+    "title": null,
+    "description": "<p>Excelente terreno à venda no Condomínio Vale do Sol;</p>\r\n\r\n<p>420 m&sup2; sendo 14x30 mts.</p>\r\n\r\n<p>Face leste, Sol da manhã</p>\r\n\r\n<p>Para mais&nbsp;informações entre em contato com um de nossos corretores.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-condominio-vale-do-sol-santa-terezinha-de-itaipu-parana-833-be57a973c8.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 818,
+    "title": null,
+    "description": "<p>Excelente terreno à venda no loteamento Tarumã:</p>\r\n\r\n<p>Terreno com 300,15 m&sup2;</p>\r\n\r\n<p>Face Norte</p>\r\n\r\n<p>Para mais&nbsp;informações entre em contato com um de nossos corretores.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-santa-terezinha-de-itaipu-parana-832-96e843dcaa.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 817,
+    "title": null,
+    "description": "<p>Terreno à venda no Loteamento Planalto:</p>\r\n\r\n<p>127,5 m&sup2;&nbsp;</p>\r\n\r\n<p>Excelente oportunidade de investimento!</p>\r\n\r\n<p>Mais informações entre em contato com um de nossos corretores!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-loteamento-planalto-santa-terezinha-de-itaipu-parana-668-67b6c3f517.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 816,
+    "title": null,
+    "description": "<p>Terreno de 500 m&sup2; no centro da cidade de Santa Terezinha:</p>\r\n\r\n<p>Todo murado</p>\r\n\r\n<p>Possui uma casa de madeira como benfeitoria</p>\r\n\r\n<p>Para mais informações entre em contato com um de nossos corretores!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-centro-santa-terezinha-de-itaipu-parana-664-8984ea1550.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 815,
+    "title": null,
+    "description": "<p>CONDOMÍNIO DO LAGO, ao lado da PRAIA artificial de SANTA TEREZINHA DE ITAIPU, são TERRENOS a partir de 1.500 m&sup2; sendo com 25metros de frente por 60 metros de fundos de frente para o Lago de Itaipu ao valor de R$ 350.000,00 e outras de 1.500 m&sup2; com com fundos para a reserva da itaipu medindo 30 metros de frente por 50 de fundos ao valor de R$ 250.000,00. Parcelamentos com 30% de entrada e o restante em até 50X sem juros. Com infraestrutura completa para receber sua construção, com localização privilegiada, conforto e segurança, possuindo acesso ao LAGO DE ITAIPU para seu LAZER e PESCARIA. VENHA NOS FAZER UMA VISITA QUE INFORMAREMOS MAIS DETALHES DESTE EMPREENDIMENTO PARA O SEU LAZER E DE SUA FAMÍLIA.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-santa-terezinha-de-itaipu-pr-659-059f71ddc2.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 814,
+    "title": null,
+    "description": "<p>Amplo apartamento para locação, no centro de Santa Terezinha de Itaipu, o imóvel dispõe de:</p>\r\n\r\n<p>3 Dormitórios sendo 1 suíte</p>\r\n\r\n<p>Cozinha</p>\r\n\r\n<p>Sala de Jantar</p>\r\n\r\n<p>Sala de Estar</p>\r\n\r\n<p>Banheiro social</p>\r\n\r\n<p>Sacada</p>\r\n\r\n<p>Lavanderia</p>\r\n\r\n<p>02 vagas de garagem</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Valor de locação: R$ 1150,00 + taxa de condomínio</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-centro-santa-terezinha-de-itaipu-pr-658-bd2b056147.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 812,
+    "title": null,
+    "description": "<p>Excelente sobrado à venda em Cascavel:</p>\r\n\r\n<p>Imóvel recém reformado dispõe de:</p>\r\n\r\n<p>Planta Inferior:</p>\r\n\r\n<p>01 suíte</p>\r\n\r\n<p>02 quartos</p>\r\n\r\n<p>sala integrada com cozinha</p>\r\n\r\n<p>garagem coberta</p>\r\n\r\n<p>1 banheiro social</p>\r\n\r\n<p>Plata Superioi:</p>\r\n\r\n<p>01 suíte</p>\r\n\r\n<p>02 dormitorios</p>\r\n\r\n<p>01 banheiro&nbsp;</p>\r\n\r\n<p>sala ampla</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Imóvel amplo, com aréa construída de 366 m&sup2;, protegida por muros altos.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Cliente aceita terreno no centro ou country como parte de pagamento.</p>\r\n\r\n<p>Maiores informações entre em contato com um de nossos corretores.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/sobrado-no-jardim-universitario-cascavel-parana-630-b915759620.jpg",
+    "details": {
+      "dormitorios": 6,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 2
+    }
+  },
+  {
+    "code": 810,
+    "title": null,
+    "description": "<p>Sobrado de altíssimo padrão à venda no condomínio Royal Falls Yacht em Foz do Iguaçu:</p>\r\n\r\n<p>ÁREA DO TERRENO: 500,00m&sup2; (Quinhentos Metros Quadrados).</p>\r\n\r\n<p>ÁREA DE CONSTRUÇÃO:  293,50m&sup2; (Duzentos e Noventa e Três Metros e Cinquenta Centímetros Quadrados).</p>\r\n\r\n<p>CONFIGURAÇÃO TÉRREA:  Garagem coberta para 02 carros (lado a lado);  Área interna interagindo diretamente com a parte externa;</p>\r\n\r\n<p> Sala de TV;</p>\r\n\r\n<p> Sala de jantar e varanda amplas e interligadas, voltadas para a piscina;</p>\r\n\r\n<p> Cozinha que interage com a área sala de jantar e com a lavanderia;</p>\r\n\r\n<p> Área para churrasco com churrasqueira elétrica com regulagem por comando da velocidade dos espetos e da altura da grelha;</p>\r\n\r\n<p> Banheiro que atende tanto a área de churrasco como também a área da piscina;</p>\r\n\r\n<p> Área de serviço com acesso pela cozinha;</p>\r\n\r\n<p> Piscina com iluminação (LED);</p>\r\n\r\n<p> Grandes aberturas de vidro, fazendo pleno aproveitamento da luz natural;</p>\r\n\r\n<p> Uma suíte;</p>\r\n\r\n<p> Depósito;</p>\r\n\r\n<p> Escritório;</p>\r\n\r\n<p> Todos ambientes foram estudados conforme orientação solar.</p>\r\n\r\n<p>CONFIGURAÇÃO SUPERIOR:</p>\r\n\r\n<p> Três suítes sendo uma delas com closet, bem como uma sala de estar/TV.</p>\r\n\r\n<p>A CASA AINDA CONTA COM:</p>\r\n\r\n<p>a) - esquadrias em alumínio;</p>\r\n\r\n<p>b) - todos os ambientes com espera para serem climatizados;</p>\r\n\r\n<p>c) &ndash; produtos das marcas Deca, Docol e Portobello;</p>\r\n\r\n<p>d) - projetos arquitetônico, estrutural e hidráulico inclusos;</p>\r\n\r\n<p>e) &ndash; espera para aquecimento solar.</p>\r\n\r\n<p>FACILIDADES PARA PAGAMENTO:</p>\r\n\r\n<p>Parcelamento direto com a Incorporadora, sendo o sinal de 20% e o saldo em até 48 (Quarenta e Oito) vezes.</p>\r\n\r\n<p>PRAZO DE CONCLUSÃO DA OBRA: 12 MESES</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/sobrado-no-foz-do-iguacu-parana-624-b9642727f7.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 3,
+      "cozinha": 1,
+      "suite": 4
+    }
+  },
+  {
+    "code": 808,
+    "title": null,
+    "description": "<p>Casa Geminada à venda no bairro Jardim Cataratas, o imóvel dispõe de:</p>\r\n\r\n<p>* 3 dormitórios sendo 1 suíte</p>\r\n\r\n<p>* Sala de estar</p>\r\n\r\n<p>* Cozinha</p>\r\n\r\n<p>* jardim de inverno</p>\r\n\r\n<p>* banheiro social</p>\r\n\r\n<p>* Garagem para 2 carros</p>\r\n\r\n<p>* Lavanderia</p>\r\n\r\n<p>* Terreno nos fundos para ampliação da casa ou edícula</p>\r\n\r\n<p>* Terreno com 166 m&sup2;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Para maiores informações entre em contato com um de nossos corretores!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-jd-cataratas-santa-terezinha-de-itaipu-pr-613-d3d7ca18e0.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 807,
+    "title": null,
+    "description": "<p>Lindo Sobrado novo, com 01 suíte com closed&nbsp; e sacada, 02 quartos, 01 banheiro social, 01 sala estar, 01 sala jantar, 01 cozinha semi-mobiliada, área nos fundos do terreno, garagem para 02 veículos, sendo um coberto e outro não, portão eletronico e cerca elétrica. Área construida 138,50m&sup2; e&nbsp;terreno 155m&sup2;. Aceita-se veículo ou terrreno como parte de pagamento e estuda&nbsp;parcemento direto.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/sobrado-no-panorama-ii-foz-do-iguacu-pr-611-da7a5f036a.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 806,
+    "title": null,
+    "description": "<p>Imóvel a Venda no Bairro BNH, dispõe de:</p>\r\n\r\n<p>Terreno de 396m&sup2; e 200m&sup2; de área construída sendo:</p>\r\n\r\n<p>Casa na parte frontal do terreno:</p>\r\n\r\n<p>1 suíte</p>\r\n\r\n<p>3 quartos</p>\r\n\r\n<p>Sala</p>\r\n\r\n<p>Cozinha</p>\r\n\r\n<p>Banheiro</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Casa no meio do terreno:</p>\r\n\r\n<p>Casa em laje</p>\r\n\r\n<p>2 quartos</p>\r\n\r\n<p>1 banheiro</p>\r\n\r\n<p>Sala/cozinha integradas</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Fundo do Terreno:</p>\r\n\r\n<p>Piscina</p>\r\n\r\n<p>Edicula com churrasqueira</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Cobertura em estrutura metálica medindo 9,50 x 12 metros.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Maiores informações entre em contato com um de nossos corretores</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-bnh-santa-terezinha-de-itaipu-parana-610-8eda64db94.jpg",
+    "details": {
+      "dormitorios": 6,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 2,
+      "cozinha": 2,
+      "suite": 1
+    }
+  },
+  {
+    "code": 805,
+    "title": null,
+    "description": "<p>Casa nova no Condomínio Horizontal Fechado Valle do Sol:<br />\r\n<br />\r\nTerreno: 386,88m&sup2;<br />\r\nÁrea construída: 169,43m&sup2;<br />\r\nGaragem para 2 veículos<br />\r\nLavabo<br />\r\nÁrea de Serviço<br />\r\nÁrea Gourmet<br />\r\nSala de Estar<br />\r\n2 quartos&nbsp;<br />\r\n1 suíte com Closet</p>\r\n\r\n<p>Paisagismo incluso no valor do imóvel.</p>\r\n\r\n<p><br />\r\nOBS: PROJEÇÃO DE ENTREGA ENTRE 6 A 8 MESES</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-santa-terezinha-de-itaipu-parana-604-4ae8439552.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 804,
+    "title": null,
+    "description": "<p>Belíssimo apartamento na cidade de São Miguel do Iguaçu - PR</p>\r\n\r\n<p>O imóvel possui 240m&sup2; sendo 160m&sup2; de área privativa, distribuídos em:<br />\r\n* Suíte master com closet<br />\r\n* 2 quartos<br />\r\n* Sala de TV<br />\r\n* Cozinha<br />\r\n* Lavanderia<br />\r\n* Sacada com área gourmet<br />\r\n* 2 vagas de garagem</p>\r\n\r\n<p>Entre em contato com um de nossos corretores para maiores informações!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-centro-sao-miguel-do-iguacu-parana-603-53370e28b4.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 803,
+    "title": null,
+    "description": "<p>SOBRADO ALTÍSSIMO PADRÃO Á VENDA NO CONDOMÍNIO HORIZONTAL FECHADO RESIDENCIAL ECO BELLA VISTA (Foz do Iguaçu)&nbsp;<br />\r\n<br />\r\nTerreno 510 metros<br />\r\nConstrução 311 metros averbada<br />\r\n4 suítes&nbsp;<br />\r\nEscritório<br />\r\nÁrea gourmet / lavabo<br />\r\nCozinha<br />\r\n2 salas<br />\r\nLavanderia<br />\r\nGaragem para 2 veículos<br />\r\nObs: Todos os planejados está em fase final e estão inclusos no valor do imóvel.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/sobrado-no-foz-do-iguacu-parana-602-c64fbc8adb.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 4
+    }
+  },
+  {
+    "code": 801,
+    "title": null,
+    "description": "<p>Terreno todo gramado a venda em Santa Terezinha de Itaipu.</p>\r\n\r\n<p>Terreno com 412,5 m&sup2;</p>\r\n\r\n<p>Rua asfaltada</p>\r\n\r\n<p>Para maiores informações, entre em contato com nossos corretores!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-santa-monica-sa-parana-599-37508849ee.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 800,
+    "title": null,
+    "description": "<p>Casa a venda no Jardim Ascari, o imóvel dispõe de:</p>\r\n\r\n<p>2 quartos sendo 1 suíte</p>\r\n\r\n<p>Sala de Estar, Jantar e Cozinha em ambiente integrado</p>\r\n\r\n<p>Banheiro Social</p>\r\n\r\n<p>A casa conta com 90 m&sup2; e 300 m&sup2; de terreno</p>\r\n\r\n<p>Acabamento em porcelanato retificado e rebaixamento de gesso com luminárias embutidas.</p>\r\n\r\n<p>Ficam no imóvel moveis planejados da cozinha, incluindo coifa e cooktop.</p>\r\n\r\n<p>Painel de TV</p>\r\n\r\n<p>Ar condicionado de 18.000 btus</p>\r\n\r\n<p>Ar condicionado de 12.000 btus</p>\r\n\r\n<p>Aceitamos veículos como parte do pagamento.</p>\r\n\r\n<p>Para maiores informações entre em contato com nossos corretores.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-jardim-ascari-santa-terezinha-de-itaipu-parana-598-1a5915d550.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 798,
+    "title": null,
+    "description": "<p>Belíssima casa no Condominio Vila A Park em Foz do Iguaçu com 192 m&sup2; de área construída e 420 m&sup2; de terreno, o imóvel dispõe de:</p>\r\n\r\n<p>4 dormitórios sendo:</p>\r\n\r\n<p>2 Demi suítes</p>\r\n\r\n<p>1 Suíte</p>\r\n\r\n<p>1 Suíte com closet</p>\r\n\r\n<p>Sala integrada</p>\r\n\r\n<p>Cozinha com ilha</p>\r\n\r\n<p>Escritório</p>\r\n\r\n<p>Lavabo</p>\r\n\r\n<p>Lavanderia</p>\r\n\r\n<p>Imovel com fino acabamento, marcos, portas, rodapés e esquadrias na cor preta</p>\r\n\r\n<p>Pé direito alto</p>\r\n\r\n<p>Porta de correr para isolamento da parte íntima à social</p>\r\n\r\n<p>Área gramada nos fundos</p>\r\n\r\n<p>Acesso lateral</p>\r\n\r\n<p>Garagem para 2 carros cobertos e 2 descobertos</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>O condominio:</p>\r\n\r\n<p>Localizado em área nobre de foz, o condominio conta com piscina, salão de festas, academia, portaria 24hrs.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Cliente aceita imóvel de menor valor ou veículos como parte do pagamento.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-condominio-vila-a-park-foz-do-iguacu-parana-594-7af6c4bf69.jpg",
+    "details": {
+      "dormitorios": 4,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 2
+    }
+  },
+  {
+    "code": 797,
+    "title": null,
+    "description": "<p>Excelente oportunidade, imóvel podendo ser financiado, Residencial&nbsp;Benjamin Constant, localizado na cidade de Foz do Iguaçu. São 24 unidades, cada terreno possui 135,00 m&sup2;, sendo 54,00 m&sup2; de área construída.&nbsp;Casas em laje, acabamento em gesso, iluminação&nbsp;em LED, revestimento interno em ecopaper. &nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-jardim-cataratas-foz-do-iguacu-pr-590-ed9580e88e.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 796,
+    "title": null,
+    "description": "<p>3 Casas a venda em Santa Terezinha de Itaipu, o imovel dispõe de:</p>\r\n\r\n<p>01 casa na parte frontal do terreno</p>\r\n\r\n<p>02 casas no fundo do terreno</p>\r\n\r\n<p>As casas já estão alugadas.</p>\r\n\r\n<p>Área total do terreno: 427 m2</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-parana-591-f905311815.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 795,
+    "title": null,
+    "description": "<p>Chácara a venda no perimetro urbano de Santa Terezinha de Itaipu, o imóvel dispõe de:</p>\r\n\r\n<p>3.000,23 m2 sendo 23,8 metros de frente e 126,06 metros de fundos com 02 casas mistas.</p>\r\n\r\n<p>Ótima localização, com avenida asfaltada.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/chacara-no-parque-dos-estados-santa-terezinha-de-itaipu-parana-588-4a5eb50e32.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 794,
+    "title": null,
+    "description": "<p>Casa em rua sem saída para você que quer sossego, ela dispõe:</p>\r\n\r\n<p>*01 suíte com closed</p>\r\n\r\n<p>*02 quartos&nbsp;</p>\r\n\r\n<p>*01 sala</p>\r\n\r\n<p>*01 cozinha mobiliada</p>\r\n\r\n<p>*01 banheiro social</p>\r\n\r\n<p>* Edícula com churrasqueira, lavanderia e banheiro</p>\r\n\r\n<p>* 02 vagas de garagem</p>\r\n\r\n<p>Casa com laje, iluminação em led, móveis sob medida ficam no imóvel, com terreno todo murado, com frente de 12,00metros e funfos 25,03metros, para valor à&nbsp;vista estuda-se proposta.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-residencial-dona-elona-santa-terezinha-de-itaipu-pr-587-dce6373903.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 792,
+    "title": null,
+    "description": "<p>Apartamento no centro da cidade, com área de 80 m&sup2;. Permanecendo no imóvel toda a mobília feita sob medida. Possui 03&nbsp;quartos, 01 sala de estar, 01 sala de jantar, 01 cozinha, 01 banheiro social, lavandeira e 01 vaga de garagem. Condomínio possui piscina, área de festas e quadra poliesportiva.&nbsp;Aceita-se um veículo no valor de até R$ 50.000,00 como parte de pagamento.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-centro-cascavel-pr-580-2ba185a99a.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 791,
+    "title": null,
+    "description": "<p>Apartamento com área de 73,70 m&sup2;, localizado em &nbsp;Edifício no centro da cidade. Possuindo&nbsp; 01 suíte,&nbsp;01 quarto,&nbsp;sala de estar, cozinha estilo americana com armário,&nbsp;01 banheiro&nbsp;social,&nbsp;área de serviço,&nbsp;sacada com churrasqueira e 01 vaga de&nbsp;garagem.&nbsp;Edifício conta com elevador, salão de festas, piscina e quadra.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-centro-foz-do-iguacu-pr-578-820e0d8aec.JPG",
+    "details": {
+      "dormitorios": 1,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 790,
+    "title": null,
+    "description": "<p>Casa muito bem edificada e localizada no bairro, para você que pretende morar em um lugar tranquilo. A casa possui 02 quartos, 01 sala, 01 cozinha, 02&nbsp;banheiros, lavanderia, churrasqueira e garagem para 02 veículos cobertos. O terreno é todo murado com portão eletrônico e cerca elétrica.&nbsp;&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-569-a9a2ed1bac.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 788,
+    "title": null,
+    "description": "<p>Casa com 94m&sup2; de área construida, tendo&nbsp;04 quartos, 01 sala de estar, 02&nbsp;cozinhas, 01 banheiro social,&nbsp;garagem para 03 veículos. Edícula nos fundos com lavandeira, dispensa, banheiro e churrasqueira. Terrreno todo murado com 232,72 metros, sendo 11,50 metros de frente por 28,15 de fundos.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-jardim-curitibano-santa-terezinha-de-itaipu-pr-568-d524984aac.jpg",
+    "details": {
+      "dormitorios": 4,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 787,
+    "title": null,
+    "description": "<p>Terreno de esquina, com excelente localização, no centro da cidade! Terreno&nbsp;com área total de 400,00 m&sup2;, sendo 16mx25m.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-centro-santa-terezinha-de-itaipu-pr-565-8de13497b5.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 785,
+    "title": null,
+    "description": "<p>Terreno de esquina, todo murado e com excelente localização. Possuindo área total de 540,00 m&sup2;.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-jardim-santa-monica-santa-terezinha-de-itaipu-pr-561-b4da0e4f3d.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 784,
+    "title": null,
+    "description": "<p>Excelente oportunidade! Terreno no centro da cidade, com área total de 1.118,00 m&sup2;, podendo ser vendido em sua totalidade ou 02 frações de 559,00 m&sup2;.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-centro-santa-terezinha-de-itaipu-pr-557-7c8bcb7f71.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 783,
+    "title": null,
+    "description": "<p>Casa com excelente localização! Possuindo 01 suíte, 03 quartos, 01 sala de estar, 01 sala de jantar, uma ampla cozinha, 01 banheiro social e nos fundos possui mais 02 quartos.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-556-2fd6cf0153.jpg",
+    "details": {
+      "dormitorios": 5,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 782,
+    "title": null,
+    "description": "<p>Prédio residencial em fase de construção com hall social e elevador, acabamentos em porcelanato e&nbsp; gesso. São&nbsp;duas torres com apartamentos de 02 ou 03 dormitórios, sendo 01 suíte, banheiro social, sala de estar, jantar e&nbsp;cozinha integrados, área de serviço e&nbsp;área gourmet. Possuindo nas áreas comuns, salão de festas, playground, quadra poliesportiva, estacionamento todo asfaltado sendo 22 vagas de garagem simples,&nbsp;17 vagas duplas com cobertura, 10 vagas para motocicletas com cobertura,&nbsp;portaria com guarita e depósito de lixo seletivo. Podendo ser parcelados direto no boleto bancário. Ficou interessado e quer mais informações, agende um hórario com um de nossos corretores.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-loteamento-taruma-santa-terezinha-de-itaipu-pr-555-617de58bf8.jpeg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 781,
+    "title": null,
+    "description": "<p>&nbsp;Terreno com área de 420,00 m&sup2;, Para você que pretende morar em condomínio fechado esta é uma ótima opção.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-554-385326f381.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 780,
+    "title": null,
+    "description": "<p>Terreno em condomínio fechado, medindo 420,00 m&sup2;. Fácil acesso a BR 277 e uma excelente localização, logo na entrada do condomínio!&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-551-dc8765cdfe.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 775,
+    "title": null,
+    "description": "<p>Casa com acabamentos de primeira linha, em condomínio fechado! Possuindo 01 suíte com closet, 02 quartos,&nbsp;sala de jantar, sala&nbsp;de estar, cozinha, 02 banheiros, área gourmet com churrasqueira, lavanderia, dispensa e garagem para 02 veículos e placas solares.&nbsp;Terreno com área total de 400,00&nbsp;m&sup2;, sendo 240,00 m&sup2; de área construída.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-540-2bf8f47528.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 774,
+    "title": null,
+    "description": "<p>Casa muito bem localizada no bairro, distante 80 metros da Br 277, com 01 suíte com ar condicionado, 02&nbsp;quartos, 01 sala, 01 cozinha mobiliada, banheiro social, lavanderia, garagem para 02 veículos, piscina, edícula com churrasqueira, quarto empregada e banheiro. Aceita-se veículo de até R$ 60.000,00 como parte de pagamento.&nbsp;&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-539-340b6402a5.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 773,
+    "title": null,
+    "description": "<p>Excelente terreno com 1.500,00 m&sup2;, em condomínio fechado! Para você morar muito bem próximo ao Lago de Itaipu, o Condomínio possui portaria, piscina, salão de festas, quadra de tênis, quadra de vôlei de areia, cancha de bochas, angar ao lado&quot;opcional&quot;, campo de grama futebol sete, quiosque com churrasqueira, academia, playground infantil, área com árvores frutíferas.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-condominio-rosa-de-saron-santa-terezinha-de-itaipu-pr-538-1d740a7578.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 772,
+    "title": null,
+    "description": "<p>Excelente oportunidade! Casa com móveis sob medida, possuindo&nbsp;03&nbsp;quartos, sendo 01 suíte, 01 sala de estar, 01 cozinha e 01 banheiro social. Edícula com piscina. churrasqueira, 01 lavabo e lavanderia. Aceita-se lote como forma de pagamento.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-sao-lourenco-santa-terezinha-de-itaipu-pr-536-88a9b08b76.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 771,
+    "title": null,
+    "description": "<p>Casa com 76,00 m&sup2; de área construída, possuindo 03 quartos, 01 sala de estar, 01 cozinha, 01 banheiro social, lavanderia e um amplo espaço externo.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-sao-lourenco-santa-terezinha-de-itaipu-pr-535-772b54cadb.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 770,
+    "title": null,
+    "description": "<p>Excelente oportunidade!&nbsp;Terreno em condomínio fechado,&nbsp;próximo ao centro da cidade e com fácil acesso a BR 277. Possuindo 392,00 m&sup2; de área total, sendo 14m X 28m.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-534-4e1b8ae5fe.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 768,
+    "title": null,
+    "description": "<p>Linda casa, muito bem cuidada, com acabamentos de primeira linha, piso em porcelanato, gesso rebaixado com iluminação em led, possuindo 01 suíte semi mobiliada, com closed, 02 quartos, 01 sala de estar com home, 01 sala jantar, 01 cozinha gourmet mobiliada, lavanderia, banheiro e garagem para 03 veículos.&nbsp;&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-531-5e986e93ad.png",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 767,
+    "title": null,
+    "description": "<p>Casa bem aconchegante, com 02 salas, 01 cozinha, 02 quartos, lavanderia e garagem para 02 veículos.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-bnh-santa-terezinha-de-itaipu-pr-529-e168f19e4e.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 766,
+    "title": null,
+    "description": "<p>Lindo Apartamento semi mobiliado, muito bem localizado, com 101,75m&sup2;, assim distribuido: 1 suíte, 02 quartos sendo um mobiliado, 01 banheiro social, 01 ampla sala jantar / estar com sacada, cozinha mobiliada, lavanderia e garagem para 01 veículo. Ficou interessado, agende uma visita com um de nossos corretores.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-centro-santa-terezinha-de-itaipu-pr-528-db214400d2.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 762,
+    "title": null,
+    "description": "<p>Apartamentos novos, a partir de 48,00m&sup2;, com 01 ou 02 vagas de garagem, muito bem localizados, podendo serem parcelados em condomínio fechado. Teve interesse, entre em contato conosco que teremos o prazer de ir mostrá-lo.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-parque-imperatriz-foz-do-iguacu-pr-521-6345dfd948.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 761,
+    "title": null,
+    "description": "<p>Linda casa, com excelente localização. Terreno com área de 300,00 m&sup2;, sendo 165,00 m&sup2; de área construída. Possui 01 suíte, 02 quartos, 01 sala de estar, 01 cozinha e 01 banheiro social. Área gourmet com churrasqueira, banheiro e dispensa.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-sao-lourenco-santa-terezinha-de-itaipu-pr-517-e37a1c80ac.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 760,
+    "title": null,
+    "description": "<p>Excelente oportunidade! Casa no centro, possuindo 01 suíte com banheira, 02 quartos, 01 sala de estar, 01 cozinha, 01 banheiro social, 01 dispensa, 01 lavanderia e garagem para 02 veículos.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-pr-518-ab00cb730e.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 754,
+    "title": null,
+    "description": "<p>Sala comercial no centro, excelente para você que pretende abrir seu negócio. São 70 m&sup2;, possuindo 01 banheiro.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/sala-comercial-no-centro-santa-terezinha-de-itaipu-pr-505-ec04fe96a2.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 753,
+    "title": null,
+    "description": "<p>Apartamento com 107m&sup2; bem no centro da cidade no segundo andar, com sala de estar com sacada, sala de jantar, cozinha, 01 suíte semi mobiliada, 02 quartos sendo um semi mobiliado, banheiro, lavanderia e gargem para 01 veículo. Nos fundos uma área comum de festas com piscina. Para valor a vista concede-se um desconto. Aceita-se um veículo como parte de pagamento. Gostou, agende uma visita com um de nossos corretores.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-centro-sao-miguel-do-iguacu-pr-504-21ec1e6bb1.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 750,
+    "title": null,
+    "description": "<p>Casa muito bem planejada e edificada, com 01 suíte, 02 quartos, 01 sala de estar, 01 cozinha mobiliada, 01 sala jantar, banheiro social, lavabo. Edícula com churrasqueira, lavanderia, piscina, banheiro e garagem para 03 veículos. Área do terreno de 500,00m&sup2; todo murado e área edificada de 270,00m&sup2;. Para você que pretende morar bem e em ótima localização.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-pr-499-02f9daea4d.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 748,
+    "title": null,
+    "description": "<p>Edifício Residencial Elegance Tower em construção no centro de Foz do Iguaçu! Torre com 124 apartamentos de alto padrão.&nbsp;Cada apartamento possui 01 suíte, 02 quartos, sala de estar, cozinha, banheiro social, área gourmet com churrasqueira e 02 vagas de garagem. Excelentes formas de pagamento, entrada mínima de 25% e restante parcelado em até 36 parcelas.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/predio-no-centro-foz-do-iguacu-pr-497-ce71958df0.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 747,
+    "title": null,
+    "description": "<p>Casa NOVA, de dois pisos, com acabamentos de primeira linha! São 205,23 m&sup2; de área construída, possuindo no piso superior 03 suítes &nbsp;e no piso inferior ampla sala de estar, sala de jantar, cozinha, lavabo. Na parte externa um amplo espaço, possuindo área gourmet com churrasqueira. Agende uma visita com um de nossos corretores para conhecer esta excelente opção de moradia em um dos melhores e mais bonitos Condomínios de Foz do Iguaçu.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-terras-alpha-i-foz-do-iguacu-pr-496-29d3b04955.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 744,
+    "title": null,
+    "description": "<p>Casa muito bem cuidada, com 130m&sup2; de construção, em avenida dupla, com 01 suíte, 02 quartos, 01 sala jantar, 01 sala estar, cozinha, banheiro social, dispensa, lavanderia, garagem para 02 veículos e&nbsp;churrasqueira. Terreno todo murado com 400m&sup2; com amplo pátio nos fundos. Aceita-se carro e&nbsp;terreno no Condomínio Vale do Sol como parte de pagamento.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-bnh-santa-terezinha-de-itaipu-pr-493-a0d8f889c1.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 743,
+    "title": null,
+    "description": "<p>Casa em fase de construção, com excelentes acabamentos! São 146,61 m&sup2; de área construída, sendo que o terreno possui 526,69 m&sup2; de área total. Possui uma sala de estar, cozinha gourmet, 01 suite, 02 quartos, 01 banheiro social, área de serviços com lavabo e vaga de garagem para 02 veículos.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-santa-terezinha-de-itaipu-pr-490-fc7e1b344e.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 740,
+    "title": null,
+    "description": "<p>Casa NOVA DE ALTO PADRÃO, com acabamentos de primeira linha,&nbsp;requintadas mobilias,&nbsp;muito bem distribuida no terreno, para você que tem bom gosto e pretente morar muito bem com sua familia.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-442-3bcdb68c32.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 738,
+    "title": null,
+    "description": "<p>Casa de Alto Padrão, com excelentes acabamentos, possuindo 03 suítes completas, 01 sala de estar, 01 sala de jantar, cozinha gourmet, vaga de garagem para 03 veículos. Revestimentos Portobello, sistema fotovoltaico, sistema de aquecedor solar e&nbsp;moveis sob medida. Terreno com área total de 754,98 m&sup2;, sendo 342,97 m&sup2; de área privativa. Valor do imóvel poderá ser parcelado diretamente com o proprietário.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-condominio-ipe-santa-terezinha-de-itaipu-pr-438-08c8afcc8e.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 3
+    }
+  },
+  {
+    "code": 737,
+    "title": null,
+    "description": "<p>Casa Aconchegante, semi-nova, com 01 suíte, 02 quartos, 01 sala, 01 cozinha mobiliada, banheiro social, lavanderia, área de descanso, garagem para um veículo coberto e 02 sem cobertura e dispensa. Terreno todo murado, portão eletrônico, sistema de cameras de monitoramento. Aceita carro ou terreno como parte de pagamento.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-pr-439-1b092d6c08.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 734,
+    "title": null,
+    "description": "<p>Casa nova, com excelentes acabamentos! Terreno medindo 230,00 m&sup2;, sendo 108,00 m&sup2; de área construída, casa toda em laje e acabamentos em porcelanato. Possui 01 suíte, 02 quartos, 01 sala de estar, área gourmet com churrasqueira, 01 banheiro social e 02 vagas de garagem.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-cidade-alta-ll-medianeira-pr-435-92cb3cb3b9.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 732,
+    "title": null,
+    "description": "<p>Excelente oportunidade! Casa NOVA&nbsp;com 157,24 m&sup2; de área construída. Possui 01 suíte com closet, 02 quartos, 01 sala de estar, 01 banheiro social, área gourmet com churrasqueira, lavanderia e lavabo.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-condominio-vale-do-sol-santa-terezinha-de-itaipu-pr-433-f7b422cae5.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 731,
+    "title": null,
+    "description": "<p>Excelente oportunidade! Podendo o valor ser parcelado. Terreno no centro da cidade, todo murado, com área total de 500,00 m&sup2;. Próximo a&nbsp;escolas, pronto atendimento Médico e avenida principal da cidade.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-santa-terezinha-de-itaipu-pr-432-48db050079.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 727,
+    "title": null,
+    "description": "<p>Prédio no centro da cidade, ótima localização para comércio. Possui uma sala comercial com área de 235,10 m&sup2; e área superior com 233,03 m&sup2;, sendo um apartamento com 5 quartos, 01 sala de estar, 01 sala de jantar, 01 cozinha, 02 banheiros, lavanderia e dispensa.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/predio-no-centro-santa-terezinha-de-itaipu-pr-429-0cfb0394cb.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 721,
+    "title": null,
+    "description": "<p>Excelente oportunidade, terreno em condomínio fechado! Localizado próximo ao centro da cidade e com fácil acesso a BR 277. Possui&nbsp;512,47 m de área total.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-condominio-vale-do-sol-santa-terezinha-de-itaipu-pr-422-49a0237afc.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 719,
+    "title": null,
+    "description": "<p>Terreno muito bem localizado no bairro, plano, murado em suas laterais e fundos, distante 150metros da Br 277, com frente de 13,00metros, com 533m&sup2;. Valor a vista concede-se um desconto ou podendo ser parcelado.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-araucaria-santa-terezinha-de-itaipu-pr-419-22df2e88d5.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 718,
+    "title": null,
+    "description": "<p>Ótimo terreno, distante 200metros da Br 277, muito bem localizado no bairro, plano, com 443,00m&sup2; e 12,50metros de frente. No valor pode ser parcelado ou valor a vista concede-se um desconto.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-araucaria-santa-terezinha-de-itaipu-pr-418-4a5ef7e102.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 717,
+    "title": null,
+    "description": "<p>Excelente terreno, com ótima localização no bairro, distante 200 metros da Br 277, plano, meio de quadra, 425,29 m&sup2;, com frente de 12,50 metros, com uma entrada o restante podendo ser parcelado no boleto.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-araucaria-santa-terezinha-de-itaipu-pr-650e92bdcb.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 715,
+    "title": null,
+    "description": "<p>Casa no Bairro mais próximo de Foz do Iguaçu, para você que trabalha em Foz, ótima opção, com 02 quartos, 01 cozinha, 01 sala de jantar, 01 banheiro social, dispensa e 01 vaga de garagem. Para valor a vista concede-se um desconto, agende uma visita com um de nossos corretores.&nbsp;&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-sao-lourenco-santa-terezinha-de-itaipu-pr-415-458c074d0d.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 713,
+    "title": null,
+    "description": "<p>Ótima oportunidade! Casa com 01 suíte, 02 quartos, 01 banheiro social, 01 sala de estar e&nbsp;01 cozinha, com todos os móveis sob medida permanecendo no imóvel.&nbsp;Possui uma área gourmet, com churrasqueira, 01 banheiro, lavanderia e vaga de garagem. Para valor à vista estuda-se propostas.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-413-0ed161cf7b.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 712,
+    "title": null,
+    "description": "<p>Casa no centro da cidade, com um amplo espaço externo! Terreno de esquina, medindo 1.0000,00 m&sup2;. Possui uma casa com 173,00 m&sup2; de área construída, sendo&nbsp;01 suíte, 02 quartos, 01 sala de estar, 01 cozinha, 01 banheiro social. Edícula com churrasqueira, lavanderia, banheiro, dispensa e uma área gourmet. Possui também uma piscina na área externa e 03 vagas de garagem.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-pr-412-842bd84520.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 1,
+      "cozinha": 2,
+      "suite": 1
+    }
+  },
+  {
+    "code": 711,
+    "title": null,
+    "description": "<p>Terreno com área de 317,22 m&sup2;, com ótima localização! Possuindo duas frentes,&nbsp; um de frente para a Rua Désio Bendo e outra para a Rua Helio Geremia.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-jardim-iguacu-santa-terezinha-de-itaipu-pr-410-1fbf08c7f6.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 710,
+    "title": null,
+    "description": "<p>Terreno com excelente localização, próximo a escola e posto de saúde. Possuindo 300,15 m&sup2; de área total.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-loteamento-taruma-santa-terezinha-de-itaipu-pr-408-f333359eaf.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 704,
+    "title": null,
+    "description": "<p>Excelente oportunidade! Apartamento NOVO no centro de Foz do Iguaçu, no 8&ordm; andar do Edifício. Com área de 290,00 m&sup2;, possui 03 suítes (sendo 01 suíte master), 01 sala de estar, 01 cozinha gourmet com sacada, 01 banheiro social, 02 vagas de garagem e um salão de festas na cobertura com cozinha gourmet.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-centro-foz-do-iguacu-pr-402-88ac640241.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 3
+    }
+  },
+  {
+    "code": 703,
+    "title": null,
+    "description": "<p>Terreno com duas casas, ambas totalizando em 170,00 m&sup2; de área construída. Casa&nbsp;da frente fica toda a mobilia,&nbsp;possui 03 quartos, 01 sala de estar, 01 cozinha, 01 banheiro social, dispensa, lavanderia e churrasqueira. Casa dos fundos com&nbsp;02&nbsp;quartos, 01 sala de estar, 01 cozinha, 01 banheiro social e dispensa.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-400-b61e736d5e.jpg",
+    "details": {
+      "dormitorios": 5,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 2,
+      "cozinha": 2,
+      "suite": 0
+    }
+  },
+  {
+    "code": 700,
+    "title": null,
+    "description": "<p>Casa no centro do cidade, em um terreno com 559,00 m&sup2;. Possui uma casa com 3 quartos, 01 sala de jantar, 01 sala de estar, 01 cozinha, 01 banheiro social, lavanderia e 01 vaga de garagem. Possui ainda, 02 kitnets com 40 m&sup2; cada uma. Uma delas com 02 quartos, sala de estar, cozinha e banheiro social e a outra&nbsp;com 01 quarto, sala de estar, cozinha e banheiro social</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-pr-397-726ea9fcbe.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 698,
+    "title": null,
+    "description": "<p>Excelente sobrado com 01 suíte, 02 quartos, 01 banheiro social, 01 sala estar, 01 sala jantar, 01 cozinha, 01 lavabo, lavanderia, dispensa e 02 vagas de garagem.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/sobrado-no-centro-santa-terezinha-de-itaipu-pr-395-f2f771d66d.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 697,
+    "title": null,
+    "description": "<p>Edifício Residencial, com excelente localização! Apartamentos com alta qualidade nos acabamentos, segurança e tranquilidade. Possui 01 suíte, 01 quarto, 01 cozinha, 01 sala de estar, 01 sala de jantar, 01 banheiro social, sacada com churrasqueira,&nbsp;área de serviço e vaga de garagem.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-centro-foz-do-iguacu-pr-394-b8a29059f2.png",
+    "details": {
+      "dormitorios": 1,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 696,
+    "title": null,
+    "description": "<p>Terreno plano, com excelente localização! Possui área de 312,50 m&sup2;.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-centro-santa-terezinha-de-itaipu-pr-392-455eb4210b.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 693,
+    "title": null,
+    "description": "<p>Terreno plano, localizado a 200 metros da BR-277, com área de 416,83 m&sup2;.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-389-110b3ecb14.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 689,
+    "title": null,
+    "description": "<p>Sala comercial no centro da cidade, em terreno plano com dimensões de 15,00 x 30,50, sendo 457,50 m&sup2; de área total.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/sala-comercial-no-centro-santa-terezinha-de-itaipu-pr-385-919fca692e.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 687,
+    "title": null,
+    "description": "<p>Casa com ótima localização, possuindo duas casas no mesmo terreno. Sendo a da frente, com 03 quartos, 01 banheiro social, 01 sala de estar, 01 cozinha e área com churrasqueira. A casa dos fundos possui 02&nbsp; quartos, 01 banheiro social, 01 sala de estar, 01 cozinha e área com churrasqueira.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-381-b1135c1b22.jpg",
+    "details": {
+      "dormitorios": 5,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 2,
+      "suite": 0
+    }
+  },
+  {
+    "code": 683,
+    "title": null,
+    "description": "<p>Chácara Urbana com área total de 3.000,37 m&sup2;, possuindo 320 m&sup2; de área construída e uma área de 1.500 m&sup2; para plantio. Sendo uma linda casa (toda mobiliada), com 01 suíte, 02 quartos, 01 sala de jantar, 01 cozinha, 01 banheiro social, área gourmet com churrasqueira e banheiro, uma ampla lavanderia e 03 vagas de garagem.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/chacara-no-centro-santa-terezinha-de-itaipu-pr-377-e08fd9f119.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 680,
+    "title": null,
+    "description": "<p>Excelente chácara urbana, com área total de 5.550,00m&sup2;,&nbsp;sendo&nbsp;118,70 metros de frente e 46,34&nbsp;metros de fundos.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/chacara-no-centro-santa-terezinha-de-itaipu-pr-374-be4530bce0.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 679,
+    "title": null,
+    "description": "<p>Excelente oportunidade, no centro da cidade! Linda casa, com 120,00 m&sup2; de área construída, possuindo&nbsp;01 Suíte com closet,&nbsp;02 quartos, 01 cozinha,&nbsp;01 sala de estar,&nbsp;01 banheiro social, 01 lavanderia e garagem para 02 veículos. Área gourmet com 90,00 m&sup2; de área construida, com 01 banheiro e um amplo espaço com piscina.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-pr-336-cc58da8ad2.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 2,
+      "suite": 1
+    }
+  },
+  {
+    "code": 678,
+    "title": null,
+    "description": "<p>Terreno com excelente localização, no centro da cidade! Terreno plano, com 500 m&sup2; de área total, sendo 20 metros de frente e 25 metros de fundos.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-centro-santa-terezinha-de-itaipu-pr-372-ee08213599.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 675,
+    "title": null,
+    "description": "<p>Casa no centro da cidade, possuindo 03 quartos, 01 sala, 01 cozinha, 01 banheirob social e 01 vaga de garagem. Terreno com área total de 427,00 m&sup2;.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-pr-369-784249a459.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 674,
+    "title": null,
+    "description": "<p>Terreno no centro da cidade, com área total de 500,00 m&sup2;.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-centro-santa-terezinha-de-itaipu-pr-368-aaa49e4888.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 673,
+    "title": null,
+    "description": "<p>Terreno no centro da cidade, com área total de 1.000,00 m&sup2;.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-centro-santa-terezinha-de-itaipu-pr-367-3edaacccef.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 666,
+    "title": null,
+    "description": "<p>Casa com ótima localização, possuindo 01&nbsp;suíte com closet, 02 quartos, sala de estar, cozinha com moveis planejados, banheiro social.&nbsp;Terreno com área de 378,00m&sup2;, sendo&nbsp;73,00 m&sup2; de área construída.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-359-affadc8b47.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 663,
+    "title": null,
+    "description": "<p>Terreno com área de 507,50 m&sup2;, com excelente localização!&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-centro-santa-terezinha-de-itaipu-pr-354-c42fc5ee8d.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 655,
+    "title": null,
+    "description": "<p>Geminada nova em laje, com 01&nbsp;quarto, sala e cozinha conjugadas, 01 banheiro social e lavanderia. Área do Terreno: 115,15m&sup2;, sendo&nbsp;35,33m&sup2; de área&nbsp;construída.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-jardim-ascari-santa-terezinha-de-itaipu-pr-342-42d44a8983.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 654,
+    "title": null,
+    "description": "<p>Geminada nova em laje, 01&nbsp;quarto, sala e cozinha conjugadas, 01 banheiro social e lavanderia. Área do Terreno: 101,25m&sup2;, sendo&nbsp;35,71m&sup2; de área&nbsp;construída.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-jardim-ascari-341-d0b85abc42.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 650,
+    "title": null,
+    "description": "<p>Excelente terreno residencial no CondomínioRoyal Falls Yacht, plano, muito bem lozalizado em avenida dentro do Condomínio, pronto para receber sua linda casa. Condomínio com excelente área de festa de lazer prontas para uso, quadras esportivas, local para guardar sua lancha, acesso ao Rio Iguaçu. Mais informações entre em contato conosco que um de nossos corretores.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-vila-yolanda-foz-do-iguacu-pr-336-a8019b979a.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 646,
+    "title": null,
+    "description": "<p>Prédio com excelente localização, possuindo 03 salas comerciais e um apartamento na parte superior, com ótimos acabamentos, terraço com área de lazer com uma linda vista!&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/predio-no-bnh-santa-terezinha-de-itaipu-pr-332-23171ebeec.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 644,
+    "title": null,
+    "description": "<p>Ótima oportunidade, casa em condomínio fechado no centro da cidade! Possuindo 01 suíte, 02 quartos, 02 salas de estar, 01 banheiro social, 01 espaço gourmet com churrasqueira, dispensa, vagas de garagem e uma linda piscina.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-condominio-ipe-santa-terezinha-de-itaipu-pr-325-31b2051c87.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 643,
+    "title": null,
+    "description": "<p>Casa mista em terreno de 500 m&sup2;, com 03 quartos, 01 sala de jantar, 01 cozinha, 01 banheiro social, 02 vagas de garagem e lavanderia. Edícula nos fundos possuindo 01 churrasqueira, área de dispensa&nbsp;e um amplo espaço.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-santa-terezinha-de-itaipu-pr-324-6a8da33b10.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 641,
+    "title": null,
+    "description": "<p>Casa com 01 quarto, 01 sala de jantar, 01 cozinha com móveis sob medida, 01 banheiro social, 01 lavanderia e um amplo espaço externo.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-jardim-iguacu-santa-terezinha-de-itaipu-pr-320-d79038c4bd.jpg",
+    "details": {
+      "dormitorios": 1,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 639,
+    "title": null,
+    "description": "<p>Terreno em condomíniob fechado, medindo 420,00 m&sup2;. Possui uma excelente localização!&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-condominio-valle-do-sol-santa-terezinha-de-itaipu-pr-323-f0d816ccc4.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 633,
+    "title": null,
+    "description": "<p>Casa com 03 quartos, 01 ampla sala, 01 cozinha mobiliada, 01 banheiro social, edícula com área, churrasqueira, garagem, lavanderia e banheiro. Terreno todo murado, com portão eletrônico. Imóvel poderá ser financiado, agende uma visita com um de nossos corretores.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-315-e4930e11d1.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 632,
+    "title": null,
+    "description": "<p>Imóvel dividido em 02 sobrados, uma casa nos fundos e uma sala comercial. Sobrado 01 (90 m&sup2;): 01 suíte, 01 quarto, 01 sala, 01 cozinha, 01 banheiro social,&nbsp;lavanderia e 01&nbsp;vaga&nbsp;de garagem; Sobrado 02 (140 m&sup2;) :&nbsp;01 suíte, 02&nbsp;quartos, 01 sala, 01 cozinha, 01 banheiro social,&nbsp;lavanderia e 03 vagas de garagem; Casa nos fundos (54 m&sup2;):&nbsp;02&nbsp;quartos,&nbsp;sala e&nbsp;cozinha conjugadas, 01 banheiro social,&nbsp;lavanderia; Sala comercial de 30 m&sup2;, possuindo 01 banheiro.&nbsp;&nbsp;&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/sobrado-no-centro-santa-terezinha-de-itaipu-pr-314-73905be9f4.jpg",
+    "details": {
+      "dormitorios": 5,
+      "banheiros": null,
+      "garagem": 4,
+      "sala": 3,
+      "cozinha": 3,
+      "suite": 2
+    }
+  },
+  {
+    "code": 631,
+    "title": null,
+    "description": "<p>Casa com aproximadamente 110 m&sup2; de área construída, dividida em 01 casa com 02 quartos, 01 sala, 01 cozinha e 01 banheiro social. E nos fundos, podendo ser usado como edícula ou outra moradia, com 02 quartos, 01 sala/cozinha, 01 banheiro social, 01 lavanderia e 01 vaga de garagem.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-loteamento-cataratas-santa-terezinha-de-itaipu-pr-313-99817624bb.jpg",
+    "details": {
+      "dormitorios": 4,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 626,
+    "title": null,
+    "description": "<p>Excelente oportunidade para você que busca um imóvel moderno e aconchegante, com uma ótima localização. Terreno de 680m&sup2;, sendo&nbsp;295 m&sup2; de área construída. Casa toda mobiliada com pé direito alto, com 02 demi suítes, 02 suítes, 01 sala de estar, 01 sala de jantar, 01 cozinha, 01 lavabo e 01 ampla área&nbsp;gourmet, gararem para 02 veículos.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/3yasVxlbyrk\" width=\"457\"></iframe></p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-condominio-santa-terezinha-de-itaipu-pr-303-1770ac2eba.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 4
+    }
+  },
+  {
+    "code": 624,
+    "title": null,
+    "description": "<p>Ótima oportunidade! Casa com 01 suíte, 02 quartos, 01 sala de estar, 01 sala de jantar, 01 cozinha, 01 banheiro social e 01 escritório. Possuindo uma edícula com área de lavanderia, 01 banheiro, churrasqueira e 02 vagas de garagem.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-301-b85e643d82.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 620,
+    "title": null,
+    "description": "<p>Um marco comercial e um ponto de referencia no mundo empresarial de Foz do Iguaçu. São 144 salas moduláveis, de 41,25m&sup2; até 524,55m&sup2; - 493 vagas de garagens, 08 elevadores de última geração, piso elevado para flexibilizar o uso das salas, Sprincklers - sistema de prevenção de incêncio, sistema de segurança composto de controle de acesso às salas, vários itens de sustentabilidade e estar, com ampla janela para ventilação e iluminação naturais. Entre em contato conosco que agendaremos uma visita para você ter sua empresa no melhor local em Foz do Iguaçu.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/sala-comercial-no-centro-foz-do-iguacu-pr-297-db6646c55c.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 617,
+    "title": null,
+    "description": "<p>Excelente oportunidade, casa com 01 suíte e closet, 02 quartos, 01 sala de estar, 01 cozinha, 01 banheiro social, garagem para 02 veículos, possuindo móveis planejados e também com aquecedor solar. Edícula com 01 banheiro, lavanderia, dispensa, churrasqueira, piscina com aquecimento solar&nbsp;e uma área de festas.&nbsp;Terreno com área de 446,51 m&sup2;, sendo 253,83&nbsp;m&sup2; de área construída. Agende uma visita a esta ótima opção de moradia.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/7efabc42a4.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 616,
+    "title": null,
+    "description": "<p>Casa com amplo espaço externo,&nbsp;possuindo 03 quartos, 01 sala de jantar, 01 cozinha, 01 banheiro social e 02 vagas de garagem, com lavanderia e 01 banheiro na parte dos fundos.&nbsp;Terreno com área de 600,00 m&sup2;, sendo 110,00 m&sup2; de área construída.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/ec93a1569c.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 614,
+    "title": null,
+    "description": "<p>Casa possuindo 03 quartos, 02 salas, 01 cozinha e 01 banheiro social. Edícula com churrasqueira, lavanderia e 01 banheiro social. Terreno de&nbsp;510,00&nbsp; m&sup2;, sendo&nbsp;140,00 m&sup2; de área construída.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/99da875e3f.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 613,
+    "title": null,
+    "description": "<p>Casa com 02 quartos, 01 sala de estar, 01 sala de jantar, 01 cozinha, 01 banheiro social, área de dispensa, 01 vaga de garagem e churrasqueira.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/adbc1031d4.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 611,
+    "title": null,
+    "description": "<p>Excelente terreno mais elevado que a rua, sendo esta com asfalto, o mesmo possui 14,00metros de frente e 50,00metros de fundos totalizando 700,00m&sup2;, para você que procura um terreno mais amplo e no centro para construir sua casa. Agende um horário com um de nossos corretores para conhecer esta oportunidade.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/a631db7ee4.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 609,
+    "title": null,
+    "description": "<p>Casa com um amplo espaço externo. Possuindo 03 quartos, 01 sala, 01 cozinha, 01 banheiro social. Edícula nos fundos com 01 banheiro, lavanderia e churrasqueira. Para você que pretende morar num bairro calmo e seguro, próximo a Foz do Iguaçu.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/cfc392682b.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 607,
+    "title": null,
+    "description": "<p>Chácara com 24.200m&sup2;, plana, para você que pretente morar próximo da cidade em local calmo e contruir a casa do seu jeito,&nbsp;próxima ao Lago de Itaipu. Possui dois acessos as cidades, de um lado sendo para Foz do Iguaçu e outro para Santa Terezinha de Itaipu. Para valor à vista estuda-se um desconto.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/f2821b479b.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 605,
+    "title": null,
+    "description": "<p>Sala comercial com 120m&sup2;, apartamento de 2 pisos nos fundos com 260m&sup2;, possuindo uma suite, 02 quartos, escritório, sala, cozinha mobiliada e garagem para 01 veículo. Apartamento com 101m&sup2; com 01 quarto com sacada, 01 sala /cozinha, baneiro social&nbsp;e garagem para 01 veículo, possui tambem nos imóveis área com pia e churrasqueira.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/d8619ddc6a.jpg",
+    "details": {
+      "dormitorios": 5,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 2,
+      "suite": 1
+    }
+  },
+  {
+    "code": 604,
+    "title": null,
+    "description": "<p>Casa NOVA, com possibilidade de financianento,&nbsp;com excelentes acabamentos, piso em porcelanato, teto em laje, possuindo 01 suíte, 01 quarto, 01 sala, 01 cozinha, 01 banheiro social,&nbsp;lavanderia e&nbsp;garagem não coberta.&nbsp;Terreno com amplo espaço nos fundos.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/cd635c2884.jpg",
+    "details": {
+      "dormitorios": 1,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 595,
+    "title": null,
+    "description": "<p>Sobrado muito bem localizado no bairro, próximo a todos os tipos de comércio, com 01 suíte, 02 quartos, 01 sala/cozinha, 01 lavabo, 01 banheiro social, 01 lavanderia e garagem para 01 veiculo.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/029e93b91e.JPG",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 593,
+    "title": null,
+    "description": "<p>Terreno na parte alta da cidade, próximo a Delegacia da Policia Civil e da Igreja Católica. Com 15,00 metros de frente por 56,00metros de fundos, totalizando 840m&sup2;.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/46b7672755.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 588,
+    "title": null,
+    "description": "<p>Excelente sobrado, na parte superior são 02 quartos, 01 suíte com closed e sacada, 01 banheiro social, parte inferior 03 salas, cozinha, 01 quarto, lavabo, lavanderia e 02 vagas de garagem. Nos fundos uma dispensa.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/6e010eb902.jpg",
+    "details": {
+      "dormitorios": 4,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 3,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 587,
+    "title": null,
+    "description": "<p>PRÉDIO&nbsp;com 2 APARTAMENTOS, sendo 1 térreo e 1 superior. CADA APARTAMENTO POSSUI: 1 suíte, 2 quartos, 1 cozinha, 1 sala de jantar, 1 sala de estar, 2 banheiros, lavanderia, edícula, churrasqueira e 2&nbsp;vagas de garagem cada Apartamento. Terreno de esquina, todo murado. Com área total de 588,20 m&sup2;, sendo 370 m&sup2; de área construída.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/66099515d7.jpg",
+    "details": {
+      "dormitorios": 4,
+      "banheiros": null,
+      "garagem": 4,
+      "sala": 4,
+      "cozinha": 2,
+      "suite": 2
+    }
+  },
+  {
+    "code": 586,
+    "title": null,
+    "description": "<p>LINDA CASA, para você que é exigente e quer morar bem! Imóvel fica com todas as mobílias sob medida, com 02&nbsp;suítes, copa, 02 salas, 01 cozinha, lavanderia, varanda e garagem para 02 veículos. Com possibilidade de ser feita a terceira suíte com projeto pronto. Aceita-se como parte de pagamento um terreno e parcelamento.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/d79debbdba.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 2
+    }
+  },
+  {
+    "code": 585,
+    "title": null,
+    "description": "<p>Excelente terreno em condomínio fechado com 550,26m&sup2;, aceita-se permuta por Apartamento em Foz do Iguaçu.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/dbb2ca75d3.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 582,
+    "title": null,
+    "description": "<p>Terreno com 430,27 m&sup2;, Lote n&ordm;&nbsp;13, Quadra n&ordm; 12. Medindo 24,10 metros ao Norte e 23,71 ao Sul.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/577032e1cf.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 577,
+    "title": null,
+    "description": "<p>Casa com 2 quartos, 1 sala, 1 cozinha, 1 banheiro social e edícula com 2 vagas de garagem e lavanderia. Terreno todo murado, com frente de 13,10&nbsp;&nbsp;metros&nbsp;e fundos medindo 23,00 metros, totalizando 301,30m&sup2;.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/74fabdab08.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 569,
+    "title": null,
+    "description": "<p>Casa em alvenaria com 02 quartos, 01 suite, 01 sala estar, 01 cozinha, 01 banheiro social, lavanderia em área externa. Terreno de 293,11m&sup2;.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/95c5b60544.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 560,
+    "title": null,
+    "description": "<p>Área de terras para loteamento&nbsp; fazendo frente com a BR 277, no perímetro urbano, com 35.066,00m&sup2;. Agende uma visita ao local com um de nossos consultores.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/aa5cd82249.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 557,
+    "title": null,
+    "description": "<p>Casa NOVA, 165m&sup2;, com 01 suíte, 02 quartos, 01 sala estar, 01 cozinha, lavandeira, banheiro social, área com churrasqueira,&nbsp;banheiro externo e garagem para 02 veículos. Casa está em fase de acabamentos,&nbsp;com requintados materias de acabamento, como detalhes em gesso portas em alumínio, porcelanato, lampadas em led. Valor a vista consegue-se um desconto. O imóvel pode ser FINANCIADO. Agende uma visita para conhecer o imóvel com um de nossos consultores.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/4a35a9f891.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 548,
+    "title": null,
+    "description": "<p>Chácara com 1.140&nbsp;m&sup2;, em esquina, na área urbana,&nbsp;toda cercada, rua asfaltada em sua frente, possuindo uma casa em alvenaria em condições normais de uso. Para você que pretente morar próximo ao centro em uma chácara é uma ótima opção.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/4bca7bb6c6.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 544,
+    "title": null,
+    "description": "<p>Casa muito bem cuidada, tendo 03 quartos, 01 banheiro social, 01 sala, 01 cozinha, lavanderia e garagem para 02&nbsp;veículos. Edícula com 01 banheiro, 01 dispensa, área de churrasqueira e descanso. Aceita-se carro como parte&nbsp;de pagamento.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/1c1dd63c62.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 541,
+    "title": null,
+    "description": "<p>São 02 casas uma na frente do terreno com cozinha, sala, 03&nbsp;quartos, 01&nbsp;banheiro social, lavanderia e garagem para 02 veículos. Casa nos fundos com 01 sala / cozinha, 02 quartos, banheiro social, lavanderia e área de descanso.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/5c916a593e.jpg",
+    "details": {
+      "dormitorios": 5,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 2,
+      "suite": 0
+    }
+  },
+  {
+    "code": 538,
+    "title": null,
+    "description": "<p>SÃO 02 CASAS, no mesmo terreno, casa da frente com 03 quartos, 01 sala, 01 cozinha, 01 banheiro social e lavanderia. Casa Fundos com 02 quartos, 01 sala, 01 cozinha, 01 banheiro e lavanderia. Terreno com 456m&sup2; com 12 metros de frrente por 38 metros de fundos.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/7a35e94536.jpg",
+    "details": {
+      "dormitorios": 5,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 2,
+      "cozinha": 2,
+      "suite": 0
+    }
+  },
+  {
+    "code": 535,
+    "title": null,
+    "description": "<p>Casa com 01 suíte, 02 quartos, 01 sala, 01 cozinha, 01 banheiro social, 01 lavabo. Edicula com churrasqueira, lavanderia, dispensa e 02 vagas de garagem. Terreno todo murado com 300m&sup2;.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/f9461d2db2.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 533,
+    "title": null,
+    "description": "<p>Terrenos com várias metragens e valores, local COMERCIAL&nbsp;/ RESIDENCIAL, agende uma visita conosco para conhecê-los e fazer um ótimo investimento. Formas de pagamento á vista ou com entrada de 10% e o restante em até 84 parcelas.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/b1430bcac2.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 532,
+    "title": null,
+    "description": "<p>SALA COMERCIAL no centro com 100m&sup2;, excelente local para seu comércio, consultório, loja, etc.&nbsp;&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/5fa5376e04.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 529,
+    "title": null,
+    "description": "<p>Casa em Condomínio Fechado, com 01 suite, 02 quartos, 01 sala com home, 01 cozinha mobiliada, 01 banheiro social, 01 lavanderia e garagem para 02 veículos.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/75e28712b6.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 526,
+    "title": null,
+    "description": "<p>Ampla casa à venda no Loteamento Tarumã em Santa Terezinha de Itaipu - PR, o imóvel dispõe de:</p>\r\n\r\n<p>2 quartos</p>\r\n\r\n<p>1 Banheiro</p>\r\n\r\n<p>Sala de estar/tv e cozinha integrada</p>\r\n\r\n<p>Lavanderia</p>\r\n\r\n<p>Garagem coberta para 2 veículos</p>\r\n\r\n<p>Amplo terreno nos fundos para ampliação ou construção de edícula</p>\r\n\r\n<p>Parcelamento direto com a construtora com entrada de mínimo 20% e saldo restante em até 96x.</p>\r\n\r\n<p>Mais informações entre em contato com um de nossos corretores!</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-loteamento-taruma-santa-terezinha-de-itaipu-pr-149-4521415df3.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 522,
+    "title": null,
+    "description": "<p>Casa semi nova, com 101m&sup2;, tendo 02 quartos, 01 suíte, 01 sala estar, 01 cozinha, 01 banheiro social, lavanderia e 01 vaga de garagem, terreno com 300,15m&sup2; todo murado.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/b431898bf7.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 521,
+    "title": null,
+    "description": "<p>Terreno plano muito bem localizado no bairro, com frente de 15 metros, com rua aslfaltada em sua frente, com 499,25m&sup2;.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/5b5d9991d6.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 520,
+    "title": null,
+    "description": "<p>Imóvel com 01 suíte, 01 quarto, 01 sala de estar, 01 cozinha&nbsp;e lavanderia. No segundo piso possui um apartamento com 02 quartos, 01 sala, 01 cozinha, 01 banheiro, 01 lavanderia, 01 dispensa e 02 vagas para veículos não cobertas.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/110c31bf6d.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 2,
+      "suite": 1
+    }
+  },
+  {
+    "code": 518,
+    "title": null,
+    "description": "<p>Casa em alvenaria, com 03 quartos, 01 sala estar, 01 cozinha, 01 banheiro social, lavanderia, churrasqueira e 03&nbsp;vagas de garagem. Terreno todo murado com 299,66m&sup2; e casa com 100m&sup2;.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/75c542c8ca.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 517,
+    "title": null,
+    "description": "<p>Casa com 200m&sup2; de área construida e&nbsp;terreno de 342m&sup2;. A casa possui 02 quartos, 01 suíte, 01 sala estar, 01 sala jantar, 01 cozinha, 01 banheiro social. Edícula com lavanderia, churrasqueira e 02 vagas de garagem.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/b00082072a.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 514,
+    "title": null,
+    "description": "<p>CASA muito bem construida, com 120m&sup2;, com água com aquecimento solar, sisterna, lage, possuindo os seguintes comodos: 01 sala com home, 01 cozinha mobiliada, 01 suíte com closed, 02 quartos sendo um com roupeiro embutido, 01 banheiro social e garagem para 02 veículos. Edícula com 140m&sup2;, tendo um quarto, 01 dispensa, 01 banheiro, cozinha, churrasqueira, fogão a lenha e adega. Terreno todo murado com 500m&sup2;, sento 12,50 metros de frente por 40,00 metros de fundos.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/86cb7d2551.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 512,
+    "title": null,
+    "description": "<p>CASA muito bem planejada, em fase de finalização com acabamentos de primeira linha, com muito bom gosto, contendo uma sala de estar com pé direito alto, cozinha, aréa gourmet, 01 suite com closed, 01 banheiro social, 02 quartos, banheiro externo, lavandeira, dispensa e gargem para 02 veículos. Área construida 214m&sup2;, com terreno todo murado.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/6b1711a5e6.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 511,
+    "title": null,
+    "description": "<p>EXCELENTE chácara com 4,927m&sup2; bem próxima ao centro da cidade, com calçamento de paralelepipedo em sua frente, possui frente de 51,11metros por 96,40metros de fundos, plana. Agende uma visita com nossos corretores para conhecê-la melhor.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/399923d89c.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 508,
+    "title": null,
+    "description": "<p>CASA muito bem edificada, com 2 quartos, ambos com closet, 01&nbsp;sala de estar, 01&nbsp;sala de TV,&nbsp;01 cozinha de alto padrão, escritório,&nbsp;poços de luz com jardins de inverno,&nbsp;01lavanderia, dispensa e banheiro social. Na área externa:&nbsp;piscina,&nbsp;área social com churrasqueira, cooktop,&nbsp;adega e garagem para 02 veículos. Terrreno com 462m&sup2; sendo 12 metros de frente e 38,43 metros de fundos e área edificada aproximadamente 350m&sup2;.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/4bf270e047.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 499,
+    "title": null,
+    "description": "<p>Edifício em fase de conclusão, 02 apartamentos por andar com isolamento acustico, sendo um maior com Área privativa de 166,57m&sup2; com 03 suítes, e um menor com Área privativa de 145,20m&sup2; com 01 suíte e 02 quartos. O Edíficio possui alto padrão de acabamentos, garagens paralelas, hall com pé direito duplo, medição individual de água, luz e gas, energia fotovoltaica e reaproveitamento água da chuva. Agende uma visita com um de nossos corretores e venha morar num local privilegiado na cidade.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/ceceb78f46.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 3
+    }
+  },
+  {
+    "code": 498,
+    "title": null,
+    "description": "<p>CASA ALTO PADRÃO, na parte superior com 01&nbsp;suíte com banheira de hidromassagem e closed, 01 suíte com closed, 01 sala de estar com sacada, parte terrea com cozinha, lavanderia, quarto empregada, sala estar, sala jantar, 01 suíte. Edícula com área de festas com churrasqueira, cozinha, banheiro e Adega. TODOS OS COMODOS MOBILIADOS. Linda piscina, garagem para 03 veículos, terreno todo murado com cerca elétrica e sistema de cameras.&nbsp;&nbsp;&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/ce00d9b1f8.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 3,
+      "cozinha": 2,
+      "suite": 3
+    }
+  },
+  {
+    "code": 492,
+    "title": null,
+    "description": "<p>CASA NO CENTRO, tendo 150m&sup2; de área construida em laje, com 01 suíte, 02 quartos, 02&nbsp;salas, 01 cozinha, 01 banheiro social, 01 lavanderia e garagem para 02 veículos. Edícula com&nbsp; 60m&sup2;, com 01 quarto, 01 banheiro e churrasquiera. Terreno com 500m&sup2;, sendo 12,50 metros de frente por 40 metros de fundos todo murado.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/104fde5e63.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 491,
+    "title": null,
+    "description": "<p>CASA NOVA, com 01 suíte, 02 quartos, 01 banheiro social, 01 sala, 01 cozinha, garagem para 02 veículos, área construida de 105m&sup2;. Terreno todo murado com 300,15m&sup2;. ÓTIMA OPÇÃO para você que pretente morar bem em uma residência muito bem construida com bom acabamento.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/311be51ba7.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 490,
+    "title": null,
+    "description": "<p>COBERTURA no EDIFÍCIO TOSCANA, com 233,40m&sup2;, 01 suíte, 03&nbsp;quartos, 01 sala estar, 01 sala janta, 01 cozinha, 01 banheiro social, 01 lavabo, lavanderia, garagem tripla, sacada com churrasqueira com vista para o Rio Paraná.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/e9e126e11a.JPG",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 484,
+    "title": null,
+    "description": "<p>EXCELENTE terreno com 680m&sup2;, com frente de&nbsp; 17,00metros&nbsp;e fundos 40,00metros, para você&nbsp;que pretende morar no centro com segurança e tranquilidade para sua família. Estuda-se proposta para pagamento á vista.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/e028922761.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 483,
+    "title": null,
+    "description": "<p>Chácara na Costa Oeste, com 5.000m&sup2;, possuindo uma casa em alvenaria com 75m&sup2; tendo 02 quartos, 01 sala, 01 cozinha, 01 banheiro,&nbsp;lavanderia e churrasqueira.&nbsp;Toda cercada em sua frente com calçamento em paralelepípedo. Aceita imóvel como parte de pagamento até 30% do valor.&nbsp;&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/041620e727.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 480,
+    "title": null,
+    "description": "<p>CASA NOVA Geminada semi&nbsp;mobiliada, com 02 quartos, 01 sala, 01 cozinha, 01 banheiro social, lavanderia e uma vaga de garagem. Casa com laje,&nbsp;tendo 68,72m&sup2;, terreno 115,91m&sup2;. Forma de pagamento&nbsp;podendo ser com entrada e o restante parcelado direto em até 96 parcelas.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-loteamento-taruma-santa-terezinha-de-itaipu-pr-101-a798f1dd34.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 478,
+    "title": null,
+    "description": "<p>Terreno plano em Condomínio Fechado, com 333m&sup2;, com frente de 12 metros e por 27,77&nbsp;metros de fundos.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/a1a891707a.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 466,
+    "title": null,
+    "description": "<p>CHÁCARA&nbsp; na parte alta da Estrada, na área urbana da cidade, com área total de 54.000,00 m&sup2;, podendo ser vendido em sua totalidade ou 02 frações de 27.000,00 m&sup2;, pronta para você que pretende morar em uma Chácara próximo do centro.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/fbddcf0fc4.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 462,
+    "title": null,
+    "description": "<p>CASA com EXCELENTE localização e terreno, com 03 quartos, 01 sala, 01 cozinha, banheiro social e área de serviço, terreno todo murado.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/cc5ed08b66.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 455,
+    "title": null,
+    "description": "<p>Casa com 03 quartos, sala, cozinha, banheiro social, garagem para 01 veículo, nos fundos área de descanso com 01 banheiro. Terreno plano com 300m&sup2; todo murado.&nbsp;&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/e1dcf51687.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 452,
+    "title": null,
+    "description": "<p>Chácara com 4.171,68m&sup2; com frente de 40,90metros, distante 700metros do centro da cidade, para você que pretente morar em uma área grande próximo do centro da cidade.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/152650c573.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 451,
+    "title": null,
+    "description": "<p>Chácara com 4.112,20m&sup2; na parte alta da estrada, com 45metros de frente, com paralelepípedo na estrada, distante 500metros da cidade, ótimo local para você que necessita de uma chácara e quer morar próximo ao centro.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/28ddd2e4d3.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 445,
+    "title": null,
+    "description": "<p>OPÇÃO DE INVESTIMENTO. Casa no centro em alvenaria com 02 quartos, sala, cozinha, lavanderia, dispensa, área com churrasqueira e garagem para 01 veículo. FUNDOS 08 kitinetes, sendo 03 com 02 quartos sala cozinha conjugados, banheiro e lavanderia externa, 04 kitinetes com 01 quarto, sala cozinha conjugados, banheiro e lavanderia extenta e 01 kitiente de 02 pisos com 01 quarto, sala, cozinha, banheiro e lavanderia.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/a7f5c15a56.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 443,
+    "title": null,
+    "description": "<p>CASA ALTO PADRÃO com requintado acabamento, toda mobiliada, possuindo 03 suítes sendo uma com banheira de hidromassagem, sacada&nbsp; e closed na parte superior. Na parte inferior possui sala de estar, sala de jantar, cozinha e garagem para 02 veículos. Edícula com lavanderia, banheiro, áre de festas com TV,&nbsp; churrasqueira fechada e piscina para adulto e infantil.&nbsp;&nbsp;&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/5a4a76ed8e.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 3
+    }
+  },
+  {
+    "code": 441,
+    "title": null,
+    "description": "<p>Chácara com 4.000m&sup2;, possuindo 438m&sup2; em construções, sendo 04 residências em Alvenaria e 01 residência em madeira. Com quase toda sua extensão murada.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/cb8339352c.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 432,
+    "title": null,
+    "description": "<p>Terreno plano, com frente de 12metros e fundos 26,65metros, totalizando 319,80m&sup2;, pronto para receber sua casa. Aceita-se proposta para pagamento á vista.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/091622600c.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 427,
+    "title": null,
+    "description": "<p>Casa em madeira muito bem conservada, com ótima localização no bairro, local residencial, distante 200metros da BR 277, com amplo terreno todo murado, de 759.31m&sup2;&nbsp; com 19,32metros de frente.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/5a5f7fee72.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 426,
+    "title": null,
+    "description": "<p>Prédio em Alenaria com 300m&sup2;, de frente para a BR 277, na área terrea sala comercial e primeiro piso amplo apartamento. Terreno com 461,38m&sup2;.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/a0b63c5d2d.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 422,
+    "title": null,
+    "description": "<p>SÃO 02 CASAS NO TERRENO uma ao lado da outra. terreno com 1.000,00m&sup2;, sendo uma área ótima para comércio, bem no centro da cidade. Ótima opção para investimeto&nbsp; de&nbsp;uma empresa ou mesmo para locação das residencias. &nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/54c3a8d96b.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 421,
+    "title": null,
+    "description": "<p>SÃO 02 CASAS NO MESMO TERRENO, sendo uma na frente e outra nos fundos. A residencia da frente possui O2 quartos, 01 cozinha, 01 sala, 01 lavanderia, banheiro social e garagem para 01 veículo. A residencia dos fundos, possui área com churrasqueira, 02 quartos, 01 sala, 01 cozinha, 01 banheiro social e lavanderia. Terreno todo murado com frente de 13,00 metros e fundos 43,00metros.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/5790f83627.jpg",
+    "details": {
+      "dormitorios": 4,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 2,
+      "cozinha": 2,
+      "suite": 0
+    }
+  },
+  {
+    "code": 417,
+    "title": null,
+    "description": "<p>Terreno de frente para a BR 277, ao lado do SAU, Lote 12 G da Quadra 01, plano pronto para receber sua residência ou empresa com frente de 15metros e fundos 30 metros.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/299f0e9cb1.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 413,
+    "title": null,
+    "description": "<p>EXCELENTE terreno em esquina plano, com 495m&sup2;, local podendo ser residencial como ponto comercial, muito bem localizado no bairro.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/terreno-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-32-28c2591885.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 407,
+    "title": null,
+    "description": "<p>CASA DE 02 PISOS, com ótimo acabamento, com 01 suíte, 02 quartos, 02 banheiros, lavanderia, dispensa, 01 sala jantar, 01 sala de estar, 01 cozinha, área gourmet, sacada. Terreno com 387,13m&sup2; todo murado.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/c50c681ce5.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 405,
+    "title": null,
+    "description": "<p>Casa na PRAIA de ITAPOÁ em Santa Catarina, com 140m&sup2;, terreno todo murado, tendo 04 quartos, 01 cozinha, 01 lavanderia, 01 banheiro social, área com &nbsp;churrasqueira e garagem para 02 veículos.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/acd32e41a5.jpg",
+    "details": {
+      "dormitorios": 4,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 401,
+    "title": null,
+    "description": "<p>LINDA CHÁCARA no perímetro urbano com área plana de 3.184m&sup2;, possuindo 02 casas em alvenaria sendo uma com 149m&sup2; com 03 quartos, 01 sala, 01 cozinha, banheiro social, Edícula com churrasqueira, dispensa, lavanderia, banheiro e garagem para 02 veículos. Outra residência com 70 m&sup2;, com 02 quartos, banheiro social, cozinha e sala conjugada&nbsp;e lavanderia.&nbsp;&nbsp;Parte da Chácara onde existem as residencias toda murada, nos fundos existe um pomar e espaço para plantação de diveras culturas.&nbsp;Aceita-se casa no valor de até R$ 250.000,00 na cidade como parte de pagamento.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/272eed1752.jpg",
+    "details": {
+      "dormitorios": 5,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 2,
+      "suite": 0
+    }
+  },
+  {
+    "code": 399,
+    "title": null,
+    "description": "<p>Casa com 70m&sup2;, 30m&sup2; de garagem, 45m&sup2; de Edícula sendo com 02 quartos, 01 sala, 01 cozinha mobiliada, 01 banheiro social, churrasqueira, garagem para 02 veículos, terreno com 300m&sup2; sendo 10 metros de frente por 30metros de fundos. Ficam os móveis e 4 ar condicionados.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/74481e931d.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 391,
+    "title": null,
+    "description": "<p>Terrenos em CONDOMÍNIO FECHADO em Foz do Iguaçu. Terrenos a partir de 405m&sup2;, qualidade de vida em harmonia com a natureza, próximo ao Shopping Catuaí.&nbsp;Mais Informações agende uma visita com nossos corretores.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/2c325fd727.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 387,
+    "title": null,
+    "description": "<p><strong>CONDOMÍNIO DO LAGO</strong>, ao lado da PRAIA artificial de SANTA TEREZINHA DE ITAIPU, são TERRENOS&nbsp;a partir de 1.500 m&sup2; sendo com 25metros de frente por 60 metros de fundos de frente para o Lago de Itaipu ao valor de R$ 350.000,00 e outras de 1.500 m&sup2; com com fundos para a reserva da itaipu medindo 30 metros de frente por 50 de fundos ao valor de R$ 250.000,00. Parcelamentos com 30% de entrada e o restante em até 50X sem juros. Com infraestrutura completa para&nbsp;receber sua construção, com localização privilegiada, conforto e segurança, possuindo&nbsp;acesso&nbsp;ao LAGO DE ITAIPU para seu LAZER e PESCARIA.&nbsp;VENHA NOS FAZER UMA VISITA QUE INFORMAREMOS MAIS DETALHES DESTE EMPREENDIMENTO PARA O SEU LAZER E DE SUA FAMÍLIA.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/GkgpCq4igdc?rel=0&amp;controls=0&amp;showinfo=0\" width=\"560\"></iframe></p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"450\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6279.691715078922!2d-54.5020676165879!3d-25.365241405926035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDIyJzA1LjAiUyA1NMKwMjknNDMuNSJX!5e1!3m2!1spt-BR!2sbr!4v1511267411465\" style=\"border:0\" width=\"600\"></iframe></p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/905562c7b4.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 377,
+    "title": null,
+    "description": "<p>Casa com 01 cozinha, 01 sala, 03 quartos, 01 lavanderia, banheiro social e garagem para 02 veículos.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/8c830ed94b.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 376,
+    "title": null,
+    "description": "<p>Edificação onde possuia um Hospital, podendo ser utilizado como uma área de convivencia, hospital ou&nbsp;hotel devido a sua localização de frente para a BR 277 próximo a Foz do Iguaçu. Possui edificação antiga com mais de 2.300m&sup2; e edificação nova com 322m&sup2;. Tendo uma área de terreno com 7.500m&sup2;, sendo 100metros de frente por 75metros de fundos. Possui 02 recepcões com salas para espera, escritórios e quartos sendo as edificações em dois pavimentos.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/d20af00846.JPG",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 369,
+    "title": null,
+    "description": "<p>CASA NOVA, com 01 suíte, 02 quartos, 01 banheiro social, 01 sala, 01 cozinha. Edícula com 02 vagas de garagem, 01 banheiro e lavanderia.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/1cbb7742da.JPG",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 368,
+    "title": null,
+    "description": "<p>Apartamento nas TORRES MAIS ALTAS DA AMÉRICA LATINA -&nbsp;<b>YACHTHOUSE RESIDENCE CLUB -&nbsp;&nbsp;</b>Agende um horário com nossos corretores para mais informações.&nbsp;</p>\r\n\r\n<p>&bull; 3 vagas de garagem por apartamento</p>\r\n\r\n<p>&bull; 4 suítes sendo 01 Master com hidromassagem</p>\r\n\r\n<p>&bull; Espaço Gourmet</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/567b167cea.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 366,
+    "title": null,
+    "description": "<p>Casa com 02 quartos, 01 sala, 01 cozinha mobiliada, 01 banheiro social, lavandeira, garagem para 02&nbsp;veículos e churrasqueira.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/9336c2368a.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 361,
+    "title": null,
+    "description": "<p>Apartamentos com living integrado, espaço gril, 03 suites sendo uma master, até 04 vagas de garagem, entre em contato conosco que lhe apresentaremos mais informaçoes sobre o empreendimento.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/eaad0add1a.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 4,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 3
+    }
+  },
+  {
+    "code": 360,
+    "title": null,
+    "description": "<p>Excelentes Apartamentos, com fino acabamento, edíficio com sustentabilidades como captação de água da chuva, aproveitamento de luz natural. Agende um horario que teremos a satisfação de apresentar mais informações sobre o empreendimento.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/b4de44ba3e.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 3
+    }
+  },
+  {
+    "code": 359,
+    "title": null,
+    "description": "<p>Amplos apartamentos, venha conhecer o lugar onde a sua vida terá um novo sentido. Entre em contato conosco que teremos a satisfação de lhe dar mais informações.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/f1836a0b72.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 3
+    }
+  },
+  {
+    "code": 358,
+    "title": null,
+    "description": "<p>Apartamento frente mar, com 03 suítes, banheiros com piso aquecido, 03 vagas garagem, sacada com churrasqueira, 02 salas, 01 cozinha. Para você morar muito bem com sua família.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/c823d4835c.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 3
+    }
+  },
+  {
+    "code": 357,
+    "title": null,
+    "description": "<p>Apartamentos com 03 suítes sendo uma com hidromassagem, 03 vagas de garagem, pronto para morar muito bem, um dos lugares mais valorizados do Brasil..&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/3b93568760.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 3
+    }
+  },
+  {
+    "code": 355,
+    "title": null,
+    "description": "<p>EMPREENDIMENTO&nbsp;<br />\r\n<br />\r\n1 apartamento por andar&nbsp;<br />\r\n50 metros do mar&nbsp;<br />\r\n4 pavimentos de lazer&nbsp;<br />\r\n6 pavimentos de garagem&nbsp;<br />\r\nInfraestrutura para automação Medidores individuais de água e gás&nbsp;<br />\r\n2 elevadores&nbsp;<br />\r\nSistema interno de segurança&nbsp;<br />\r\n<br />\r\n<br />\r\nÁREA DE LAZER&nbsp;<br />\r\n<br />\r\nPiscina externa adulto e infantil com solarium&nbsp;<br />\r\nSalão de festas com cozinha gourmet&nbsp;<br />\r\nSala de jogos&nbsp;<br />\r\nPlayground&nbsp;<br />\r\nPub gourmet&nbsp;<br />\r\nBrinquedoteca&nbsp;<br />\r\nPub teen&nbsp;<br />\r\nCinema&nbsp;<br />\r\nLounge&nbsp;<br />\r\nAcademia&nbsp;<br />\r\n<br />\r\nOs ambientes das áreas comuns serão entregues mobiliados, equipados, decorados e alguns climatizados.&nbsp;<br />\r\n<br />\r\nAPARTAMENTO&nbsp;<br />\r\n1 Apartamento por andar&nbsp;<br />\r\n4 Suítes&nbsp;<br />\r\n2,3 ou 4 vagas de garagem&nbsp;<br />\r\nSuíte master com closet, hidromassagem e pele de vidro do piso ao teto&nbsp;<br />\r\nÁrea social com cozinha gourmet integrada&nbsp;<br />\r\n<br />\r\n&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/7a62c385ec.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 4,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 4
+    }
+  },
+  {
+    "code": 354,
+    "title": null,
+    "description": "<p>EMPREENDIMENTO SUSTENTÁVEL&nbsp;<br />\r\n<br />\r\n2 elevadores sociais, 1 de serviço e 1 de segurança&nbsp;<br />\r\nBox de praia&nbsp;<br />\r\nGerador de energia próprio&nbsp;<br />\r\nPortaria com sistema interno de segurança e monitoramento&nbsp;<br />\r\nFiltro purificador de água na entrada da rede municipal&nbsp;<br />\r\nBicicletário&nbsp;<br />\r\nCaptação de água da chuva para uso nas áreas comuns&nbsp;<br />\r\nPlacas fotovoltaicas para geração de energia através dos raios solares&nbsp;<br />\r\nSensores de presença na área comum e de circulação&nbsp;<br />\r\nLâmpadas com baixo consumo de energia&nbsp;<br />\r\nPeças sanitárias da baixa vazão&nbsp;<br />\r\nTorneiras automáticas nas áreas comuns&nbsp;<br />\r\nPaisagismo ecológico com uso de plantas nativas&nbsp;<br />\r\nColeta seletiva de lixo, óleo de cozinha e pilhas e baterias&nbsp;<br />\r\nUso de tinta a base de água em 80% da obra&nbsp;<br />\r\nCaixa descarga &quot;dual flush&quot;&nbsp;<br />\r\nAproveitamento da luz natural&nbsp;<br />\r\n<br />\r\n<br />\r\n<br />\r\nAPARTAMENTO&nbsp;<br />\r\n<br />\r\nInfraestrutura para ar-condicionado tipo split&nbsp;<br />\r\nMedidor de água e gás individual&nbsp;<br />\r\n<br />\r\n<br />\r\nÁREA DE LAZER&nbsp;<br />\r\n<br />\r\nPiscina adulto e infantil&nbsp;<br />\r\nLounge bar com pista de dança&nbsp;<br />\r\nLan house&nbsp;<br />\r\nCinema&nbsp;<br />\r\nSala de jogos&nbsp;<br />\r\nPlayground&nbsp;<br />\r\nBaby room&nbsp;<br />\r\nFitness center&nbsp;<br />\r\nSalão de festas&nbsp;<br />\r\nEspaço Gourmet&nbsp;<br />\r\nEspaço zen: sala de descanso, sauna seca e hidromassagem&nbsp;<br />\r\nOs ambientes da área de lazer serviço entregues pela construtora totalmente mobiliados, decorados e alguns climatizados</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/78e5bfc50d.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 4
+    }
+  },
+  {
+    "code": 353,
+    "title": null,
+    "description": "<p>EMPREENDIMENTO&nbsp;<br />\r\n<br />\r\n1 apartamento por andar com 05 suítes<br />\r\nMezanino com pub&nbsp;<br />\r\nVista para o mar e para a montanha&nbsp;<br />\r\nBox de praia&nbsp;<br />\r\nInfraestrutura para automação residencial&nbsp;<br />\r\nMedidores individuais de água e gás&nbsp;<br />\r\n2 elevadores sociais e 1 de serviço&nbsp;<br />\r\nSistema interno de segurança&nbsp;<br />\r\nSala administrativa de condomínios&nbsp;<br />\r\nHall de serviço e social independentes&nbsp;<br />\r\n<br />\r\nÁREA DE LAZER&nbsp;<br />\r\n<br />\r\n1.565m&sup2; de área de lazer e mais de 200m&sup2; de deck&nbsp;<br />\r\nPiscina externa adulta de 118m com raia e bar molhado&nbsp;<br />\r\nPiscina infantil com ondas&nbsp;<br />\r\nSalão de festas com cozinha gourmet e lounge&nbsp;<br />\r\nSala de jogos&nbsp;<br />\r\nBaby room / Playground Cinema Pub Wine bar&nbsp;<br />\r\nEspaço saúde com academia, yoga, pilates, sala de massagem, piscina aquecida com raia de 16m, hidromassagem, saunas seca e úmida&nbsp;<br />\r\nQuiosque gourmet&nbsp;<br />\r\nQuadra poliesportiva&nbsp;<br />\r\nPraça da lareira&nbsp;<br />\r\nJardins e espelhos d&#39;água&nbsp;<br />\r\nOs ambientes das áreas comuns serão entregues mobiliados, equipados, decorados e alguns climatizados.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/39f799a867.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 4,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 5
+    }
+  },
+  {
+    "code": 352,
+    "title": null,
+    "description": "<p>Apartamentos com 4 suítes (sendo 1 master)&nbsp;<br />\r\n<br />\r\n2 suítes de frente para o mar por apartamento&nbsp;<br />\r\n<br />\r\n3 a 4 vagas de garagem por apartamento&nbsp;<br />\r\n<br />\r\nApartamentos diferenciados com terraço e hidromassagem privativos&nbsp;<br />\r\n<br />\r\nÁREA DE LAZER&nbsp;<br />\r\n<br />\r\n4 andares de área de lazer&nbsp;<br />\r\n<br />\r\nPlayground&nbsp;<br />\r\n<br />\r\nBaby Room&nbsp;<br />\r\n<br />\r\n2 salões de festa&nbsp;<br />\r\n<br />\r\nSala de jogos&nbsp;<br />\r\n<br />\r\nQuadra de esportes&nbsp;<br />\r\n<br />\r\nPiscina adulto e infantil&nbsp;<br />\r\n<br />\r\nBar Molhado&nbsp;<br />\r\n<br />\r\nWater Play&nbsp;<br />\r\n<br />\r\nPomar&nbsp;<br />\r\n<br />\r\nPet Care&nbsp;<br />\r\n<br />\r\nMini Golf&nbsp;<br />\r\n<br />\r\nEspaço Gourmet&nbsp;<br />\r\n<br />\r\nPub&nbsp;<br />\r\n<br />\r\nCinema&nbsp;<br />\r\n<br />\r\nEspaço Estar&nbsp;<br />\r\n<br />\r\nWine Bar&nbsp;<br />\r\n<br />\r\nAdega&nbsp;<br />\r\n<br />\r\nPiscina térmica com hidromassagem&nbsp;<br />\r\n<br />\r\nÁrea de descanso&nbsp;<br />\r\n<br />\r\nSauna seca e úmida&nbsp;<br />\r\n<br />\r\nEspaço Fitness&nbsp;<br />\r\n<br />\r\nEspaço Pilates&nbsp;<br />\r\n<br />\r\nEstética&nbsp;<br />\r\n<br />\r\nMassagem</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/4452f1a2ff.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 4,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 4
+    }
+  },
+  {
+    "code": 351,
+    "title": null,
+    "description": "<p>EMPREENDIMENTO&nbsp;<br />\r\n<br />\r\nEstilo Clássico&nbsp;<br />\r\n1 apartamento por andar&nbsp;<br />\r\n3 Elevadores&nbsp;<br />\r\nBicicletário&nbsp;<br />\r\nGuarita com sistema de segurança, automação e comunicação&nbsp;<br />\r\nGerador de energia próprio&nbsp;<br />\r\nCaptação de água pluvial para limpeza das áreas comuns&nbsp;<br />\r\nFiltro purificador de água na entrada da rede municipal&nbsp;<br />\r\nAcessos de serviços e banhistas independentes&nbsp;<br />\r\nPiso das garagens revestido com porcelanatto&nbsp;<br />\r\nPortaria com sistema interno de segurança e monitoramento&nbsp;<br />\r\nSistema preventivo contra incêndio&nbsp;<br />\r\n<br />\r\nO APARTAMENTO</p>\r\n\r\n<p>4 Suítes com hidromassagem panorâmica (suíte principal com closet,&nbsp;<br />\r\nsala de banho e vista do mar).&nbsp;<br />\r\n4 vagas de garagem&nbsp;<br />\r\nPiscina panorâmica com vista para o mar com espaço gourmet grill&nbsp;<br />\r\n(ponto para churrasqueira a gás)&nbsp;<br />\r\nP&radic;&copy; direito de 3,5m de piso a piso&nbsp;<br />\r\nHall social e de serviço independentes&nbsp;<br />\r\nInfraestrutura para automação residencial&nbsp;<br />\r\nInfraestrutura para aspiração central e ar condicionado tipo split&nbsp;<br />\r\nPersianas automatizadas&nbsp;<br />\r\nVídeo porteiro&nbsp;<br />\r\nTubulação para água quente e sistema de retorno&nbsp;<br />\r\nMedidor individual de água, gás e energia&nbsp;<br />\r\nSistema de biometria na porta de acesso ao apartamento&nbsp;<br />\r\nAmbientes totalmente integrados&nbsp;<br />\r\nÁrea íntima e social independentes&nbsp;<br />\r\nDependência de empregada&nbsp;<br />\r\nAmpla Sala de jantar e estar, com ponto de lareira e vista panorâmica para o mar&nbsp;</p>\r\n\r\n<p>LAZER&nbsp;<br />\r\n<br />\r\n<br />\r\nHall de entrada com pé direito duplo&nbsp;<br />\r\nPlayground&nbsp;<br />\r\nPiscina externa adulto/infantil e espelho d&#39; água, de frente para o mar com vista panorâmica&nbsp;<br />\r\nPiscina interna aquecida&nbsp;<br />\r\nBanheiro para portadores de necessidades especiais.&nbsp;<br />\r\nSala de jogos.&nbsp;<br />\r\nBar Gourmet Grill.&nbsp;<br />\r\nSalão de festas com vista para o mar&nbsp;<br />\r\n<br />\r\n&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/944cc4769f.jpg",
+    "details": {
+      "dormitorios": 1,
+      "banheiros": null,
+      "garagem": 4,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 4
+    }
+  },
+  {
+    "code": 348,
+    "title": null,
+    "description": "<p>Casa com 02 quartos, 01 sala, 01 cozinha e banheiro social, terreno todo murado com gradil na frente.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/5428226d73.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 347,
+    "title": null,
+    "description": "<p>EXCELENTE casa, toda renovada, com ótima localização no bairro, possuindo 02 quartos, 01 banheiro social, 01 sala, 01 cozinha, Edícula com área de&nbsp;churrasqueira, lavanderia, e vaga para 03 veículos cobertos. Terreno todo murado&nbsp;e pátio todo em grama.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/3923756f06.JPG",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 332,
+    "title": null,
+    "description": "<p>Chácara em Mogi Mirim em São Paulo, Chácara São Francico, para quem quer morar em local com tranquilidade e sossego. Possui uma casa em alvenaria, arvoredo, campo de futebol.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/6eb6e007ae.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 329,
+    "title": null,
+    "description": "<p>Área integrada cozinha/sala e quarto, banheiro e 01 vaga de garagem com 35m&sup2; de área privativa.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/15fba19ca7.jpg",
+    "details": {
+      "dormitorios": 1,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 328,
+    "title": null,
+    "description": "<p>Apartamento com 02 quartos, Sala/Cozinha, Banheiro,&nbsp;Sacada e 01 vaga de garagem.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/6286df3b51.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 327,
+    "title": null,
+    "description": "<p>CONCEITO DE VIVER BEM!</p>\r\n\r\n<p>O Edifído oferece elegancia e comodidade compativeis a realização dos seus mais belos sonhos.</p>\r\n\r\n<p>Pensados para proporcionar conforto e segurança com a qualidade e planejamento exigidos pela vida moderna.</p>\r\n\r\n<p>Acabamento de alto padrão, com áreas sociais para quem tem bom gosto e zela pelo bem estar da família.</p>\r\n\r\n<p>Conheça e surpreenda-se.</p>\r\n\r\n<p>Apartamentos disponiveis:&nbsp;</p>\r\n\r\n<p>1) 01 Suite + &nbsp;01 quarto &nbsp;com 100,00m&sup2; de area privativa, com 01 vaga garagem;</p>\r\n\r\n<p>2) 03 Suítes com closed com 164,00m&sup2; de área privativa, com 02 vagas garagem;</p>\r\n\r\n<p>3) 01 Suíte + 01 Demi + 01 Quarto com 120,00m&sup2; área privativa, com 02 vagas de garagem;</p>\r\n\r\n<p>4) COBERTURA com 03 suítes,/closed + Gourmet com área privativa de 226,15m&sup2;, com 03 vagas de garagem.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/b0971e54e4.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 320,
+    "title": null,
+    "description": "<p>Casa em alvenaria na frente com 02 quartos, sala, cozinha, banheiro e nos fundos ourta casa com 02 quartos, sala, cozinha e 02 banheiros.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/ba64a16039.jpg",
+    "details": {
+      "dormitorios": 4,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 2,
+      "cozinha": 2,
+      "suite": 0
+    }
+  },
+  {
+    "code": 319,
+    "title": null,
+    "description": "<p>Terreno em condomínio fechado, com 1.500m&sup2;.&nbsp;Possuindo portaria, piscina, salão de festas, quadra de ternis, quadra para volei de areia, cancha de bochas, angar, campo de grama futebol sete, quiosque com churrasqueira, academia, playgroud infantil, área com árvores frutíferas.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"450\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3726.4772815357383!2d-54.40951768490276!3d-25.389686983807042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDIzJzIyLjkiUyA1NMKwMjQnMjYuNCJX!5e1!3m2!1spt-BR!2sbr!4v1498761498794\" style=\"border:0\" width=\"600\"></iframe></p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/a3cd87c47f.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 318,
+    "title": null,
+    "description": "<p>Excelente terreno, com ótima localização, plano, meio de quadra, murado em suas laterais e fundos, com 700m&sup2;, com 14 metros de frente por 50 metros de fundos, distante 150metros da Br 277.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"450\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1068.6215349191848!2d-54.39614790532951!3d-25.441277998665285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI2JzI4LjYiUyA1NMKwMjMnNDMuOSJX!5e1!3m2!1spt-BR!2sbr!4v1498681552506\" style=\"border:0\" width=\"600\"></iframe></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/35ed73ca59.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 308,
+    "title": null,
+    "description": "<p>Casa muito bem cuidada, com 03 quartos, 01 sala estar, 01 cozinha, 01 banheiro social, 01 dispensa, 01 lavanderia e garagem para 01 veículo. Terreno todo murado com gradil na parte da frente da casa.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/25d8240d2b.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 307,
+    "title": null,
+    "description": "<p>Salas Comerciais moduláveis&nbsp;&nbsp;de 41,25m&sup2; até 524,55m&sup2;, sua empresa no centro de tudo, local privilegiado.&nbsp;Entre em contato conosco que agendaremos uma visita para você ter sua empresa no melhor local em Foz do Iguaçu.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/7db021a063.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 304,
+    "title": null,
+    "description": "<p>Salas comercias em Prédio em construção com 23,31m&sup2; até 72,62m&sup2;, para você quer empreender na Praia de fretne para o Mar.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/3efdaf7870.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 302,
+    "title": null,
+    "description": "<p>Sobrado muito bem localizado no bairro, com 117m&sup2; de área construida, com 01 suíte, 02 quartos, 01 banheiro social, 01 sala/cozinha, 01 lavado, lavandeira e garagem para 01 veículo.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/afa73a5957.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 295,
+    "title": null,
+    "description": "<p>Linda chácara na área urbana da cidade, com 4.000m&sup2;, possuindo uma casa &nbsp;em alvenaria, um campo de futebol sete, árvores frutíferas, muito bem localizada.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/3c319df3ef.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 294,
+    "title": null,
+    "description": "<p>Casa muito bem construida, na área central da cidade, muito bem conservada, com bom padrão de acabamentos, com 02 suítes, 02 quartos, sala, cozinha edícula com churrasqueira, lavandeira, piscina e 02 vagas de garagem. Terreno todo murado com 430m&sup2;.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/6f842277e3.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 2
+    }
+  },
+  {
+    "code": 293,
+    "title": null,
+    "description": "<p>CASA EM CONDOMÍNIO com acabamentos de primeira linha, com 01 suíte com closet, 02 quartos, 02 salas, 01 cozinha, 01 banheiro social, 01 lavanderia, garagem para 02 veículos. Terreno com 404,88m&sup2;, com 14 metros de frente por 28,92 de fundos. &nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-parque-dos-estados-santa-terezinha-de-itaipu-pr-746-99c08da7c7.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 288,
+    "title": null,
+    "description": "<p>Box para barco com moradia com 02 quartos, 01 sala, 01 cozinha, 01 banheiro, quiosque com churrasqueira e garagem para o barco.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/0363bdd60d.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 286,
+    "title": null,
+    "description": "<p>Excelente casa nova quase toda mobiliada, com 01 suite, 02 quartos, 01 sala de estar, 01 cozinha, 01 churrasqueira, Lavanderia, garagem para 02 veículos, terreno todo murado. Para você que quer morar muito bem.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/fc51c385b3.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 284,
+    "title": null,
+    "description": "<p>Casa com 03 quartos, 01 sala, 01 cozinha, 01 banheiro social, Edícula com garagem para 02 veículos e lavanderia. Terreno todo murado excelente local para se morar.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/5fc26bda96.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 279,
+    "title": null,
+    "description": "<p>Sala em fase de acabamentos, podendo ser finalizada conforme a necessidade de sua empresa, com 120m&sup2;, na rua principal da cidade.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"450\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1067.949787818094!2d-54.40488249146037!3d-25.437599998667178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI2JzE1LjQiUyA1NMKwMjQnMTUuMyJX!5e1!3m2!1spt-BR!2sbr!4v1498827090946\" style=\"border:0\" width=\"600\"></iframe></p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/0901e1f829.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 277,
+    "title": null,
+    "description": "<p>São 02 barracões um ao lado do outro com aproximadamente 1.100m&sup2; de área construida e terreno com 2.400m&sup2; terreno todo murado, excelente local para empresas de vários ramos da industria.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/778d03f960.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 276,
+    "title": null,
+    "description": "<p>EXCELENTE CHÁCARA URBANA, muito bem localizada, terreno todo murado, com duas moradias, Edícula, garagem para 02 veículos, churrasqueira, ampla área de descanso, piscina, toda arborizada com 3.051m&sup2;.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/965c501e08.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 245,
+    "title": null,
+    "description": "<p>Casa muito bem localizada no bairro, com terreno todo murado, contendo 01 ampla sala, 01 cozinha, 01 suíte, 02 quartos, 01 banheiro social, 01 lavanderia, Edícula com 01 banheiro, 01 dispensa e&nbsp;garagem para 02 veículos.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/ef94eac891.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 234,
+    "title": null,
+    "description": "<p>Excelente terreno plano de FRENTE PARA&nbsp;a BR 277, local comercial, com 1.761,92m&sup2;, com frente de 39,33 metros, ao valor de R$ 450,00 ao metro quadrado a vista ou podendo ser com entrada e parcelamento em até 60 vezes.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"450\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.249526106367!2d-54.40607449807753!3d-25.446894989314448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI2JzQ4LjgiUyA1NMKwMjQnMTUuNSJX!5e1!3m2!1spt-BR!2sbr!4v1498684063221\" style=\"border:0\" width=\"600\"></iframe></p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/39ae5a089b.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 231,
+    "title": null,
+    "description": "<p>Exelente terreno de esquina com 830,84m&sup2;, ponto comercial, terreno plano, com toda a infraestrutura para construção. Entrada e parcelamento até em 60 vezes. Valor 450m&sup2; ao metro quadrado.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"450\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1067.6915842727005!2d-54.40523340895926!3d-25.450884998667036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI3JzAzLjIiUyA1NMKwMjQnMTYuNiJX!5e1!3m2!1spt-BR!2sbr!4v1498683961439\" style=\"border:0\" width=\"600\"></iframe></p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/49cc07807a.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 217,
+    "title": null,
+    "description": "<p>Barracão com 110m&sup2; e uma casa com 150m&sup2; nos fundos,&nbsp; tendo 1 suíte, 03 quartos,&nbsp; 1 lavanderia, 1 cozinha, 2 salas e 1 banheiro, no centro da cidade, opção para ponto comercial e moradia. Terreno com 14,00 metros de frente por 30,50metros de fundos totalizando 427m&sup2;.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/325fa65f2e.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 162,
+    "title": null,
+    "description": "<p>Kitinet no centro com 01 quarto, 01 cozinha, 01 sala, 01 lavanderia 01 banheiro,&nbsp;área com churrasqueira e&nbsp;pátio.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/21c265762d.jpg",
+    "details": {
+      "dormitorios": 1,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 160,
+    "title": null,
+    "description": "<p>Excelente terreno com 823,20m&sup2; plaino com frente de 14 metros e profundidade de 58,80metros.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"450\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2549.372508911519!2d-54.418529012200565!3d-25.45558455032763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI3JzE5LjMiUyA1NMKwMjUnMDYuMCJX!5e1!3m2!1spt-BR!2sbr!4v1498683779711\" style=\"border:0\" width=\"600\"></iframe></p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/32b17b91ec.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 131,
+    "title": null,
+    "description": "<p>Apartamento n&ordm;02, com sala estar/ jantar, cozinha, lavanderia, 03 quartos, banheiro e garagem para 01 veículo.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/7fd4f0c843.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 78,
+    "title": null,
+    "description": "<p>Vários Terrenos próximos a Rodovia Br 277 com ótima localização, com toda a infra estrutura para construção. Venha conferir, 450m&sup2; ao metro quadrado.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"450\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2160.702307369148!2d-54.40575169457886!3d-25.450689994541!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI3JzAyLjUiUyA1NMKwMjQnMTYuMSJX!5e1!3m2!1spt-BR!2sbr!4v1498683187367\" style=\"border:0\" width=\"600\"></iframe></p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/f89f5e838b.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 73,
+    "title": null,
+    "description": "<p>São 02 casas geminadas: A primeira n&ordm; 143. com 03 quartos, sala, cozinha, banheiro ao valor de R$ 320.000,00. A segunda n&ordm; 137, com 01 suíte, 02 quartos, sala, cozinha, lavanderia, churrasqueira, dispensa e banheiro ao valor de R$ 350.000,00.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/59d317e293.JPG",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 69,
+    "title": null,
+    "description": "<p>Chácara com 10.000,00m&sup2;, situada na Gleba Passo Cuê,&nbsp; nas proximidades do Lago de Itaipu neste município, tendo uma casa em alvenaria.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/9989cf3d75.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 65,
+    "title": null,
+    "description": "<p>Casa SEMI - NOVA, localizada no centro da cidade! Possui&nbsp;01 suíte com closet, 02 quartos, 01 banheiro social, 01 sala de jantar e estar, 01 cozinha mobiliada. Edícula com banheiro, churrasqueira elétrica, balcão, pia, dispensa, lavanderia, garagem para 03 veículos, canil, piscina, sistema de energia fotovoltaica (placas solares), sistema de câmeras e cerca elétrica. Terreno 500m&sup2; e área construída 231&nbsp;m&sup2;.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-santa-terezinha-de-itaipu-pr-640-556a348403.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 63,
+    "title": null,
+    "description": "<p>AMPLO SOBRADO, no centro da cidade, muito bem conservado, na parte superior: 03 quartos com sacada e área, 01 banheiro social, 01 sala. Na parte inferior 01 quarto, 01 banheiro social, 01 sala estar, 01 sala jantar, 01 cozinha com mobilia, 01 lavanderia, garagem para 02 veículos. Edícula com churrasqueira&nbsp;(balcão com pia fogão), piscina, 01 banheiro, área de dispensa, ficando 03 ar split e 02 roupeiros sob medida. ACEITA casa de menor valor como parte de pagamento.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/68c1535c74.JPG",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 61,
+    "title": null,
+    "description": "<p>Casa com 01 suíte, 02 quartos, 01 banheiro social, 01 sala, 01 cozinha, garagem para 01 veículo, churrasqueira, lavanderia e nos fundos uma kitinet com 01 cozinha 01 quarto e 01 banheiro.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/edc950b7ad.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 60,
+    "title": null,
+    "description": "<p>Casa toda reformada, com 01 suíte mobiliada, 03 quartos, 01 sala, 01 cozinha mobiliada, 01 lavanderia, dispensa, 03 banheiros, garagem para 03 veículos, churrasqueira.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/c8110276f7.jpg",
+    "details": {
+      "dormitorios": 4,
+      "banheiros": null,
+      "garagem": 3,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 57,
+    "title": null,
+    "description": "<p>Casa frente com 03 quartos, 01 sala, 01 cozinha, 01 banheiro e garagem para 02 veículos, nos fundos com uma Kitinete.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/412abd0727.JPG",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 53,
+    "title": null,
+    "description": "<p>ÓTIMA OPÇÃO DE INVESTIMENTO, Prédio de esquina com um ampla sala comercial com 200m&sup2; terrea e na parte superior um apartamento com total de área construida de 394,46m&sup2;, com terreno de 606,73m&sup2;. Ao lado terreno com frente para a rua paralela da&nbsp; BR 277 com 759,30m&sup2;. Valor sob consulta.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/74441d77d9.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 47,
+    "title": null,
+    "description": "<p>Sobrado localizado em São Miguel do Iguaçu, o imóvel dispõe de:</p>\r\n\r\n<p>* 01 suíte com móveis planejados, sacada e banheira</p>\r\n\r\n<p>* 02 quartos com móveis planejados</p>\r\n\r\n<p>* 01 banheiro social</p>\r\n\r\n<p>* 01 sala de TV</p>\r\n\r\n<p>* Cozinha Planejada</p>\r\n\r\n<p>* 01 lavabo</p>\r\n\r\n<p>* Dispensa</p>\r\n\r\n<p>* Edícula completa</p>\r\n\r\n<p>* Garagem para 2 veículos</p>\r\n\r\n<p>* Teto em gesso rebaixado com luminárias embutidas</p>\r\n\r\n<p>Permanecem todos os móveis planejados além de 04 ares condicionados, cerca elétrica e sistema de monitoramento de câmeras.</p>\r\n\r\n<p>Sobrado recém pintado, portas novas em alumínio com espelhos no interior</p>\r\n\r\n<p>Fácil acesso a br 277 e próximo de creche, mercado e farmácia.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/casa-no-centro-sao-miguel-do-iguacu-pr-595-786e693133.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 2,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 42,
+    "title": null,
+    "description": "<p>Linda residência muito bem cuidada, com 01 suíte, 05 quartos, 04 banheiros, 01 sala, 01 cozinha, churrasqueira, piscina, garagem para 05 veículos, sistema de alarme e cerca elétrica.&nbsp; Terreno com 1.079m&sup2; e área construida 436m&sup2; com excelente acabamento. Valor sob consulta.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/c84735ea0a.jpg",
+    "details": {
+      "dormitorios": 5,
+      "banheiros": null,
+      "garagem": 5,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 40,
+    "title": null,
+    "description": "<p>Ótimo terreno de meio de quadra&nbsp;com 344,13m&sup2;, plano, com frente de12 metros, asfalto na rua em frente, à 100metros da Br 277, boa opção de investimento.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"450\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1077.2253280859766!2d-54.402411994483614!3d-25.447688998643304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI2JzUxLjciUyA1NMKwMjQnMDYuNCJX!5e1!3m2!1spt-BR!2sbr!4v1498682801494\" style=\"border:0\" width=\"600\"></iframe></p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/be9846f9fe.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 33,
+    "title": null,
+    "description": "<p>Ótima&nbsp;opção de Investimento, apartamento no Centro, possuindo&nbsp;uma ampla sala com home&nbsp; e sacada com churrasqueira, 02 quartos, 01 suíte mobiliada com&nbsp;banheira de hidromassagem, uma cozinha mobiliada, lavanderia, aquecedor a gás e uma vaga de garagem. Lindo acabamento interno, agende uma visita com um de nossos consultores.&nbsp;</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/apartamento-no-centro-santa-terezinha-de-itaipu-pr-82-bda5307ac1.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 1,
+      "cozinha": 1,
+      "suite": 1
+    }
+  },
+  {
+    "code": 31,
+    "title": null,
+    "description": "<p>Vários terrenos com ótima localização a 200mts da Br 277, com vários tamanhos. Possuindo toda a infra estrutura, pronto para construir.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"450\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1069.3687662654331!2d-54.405520394790344!3d-25.450935998662825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI3JzAzLjQiUyA1NMKwMjQnMTcuNiJX!5e1!3m2!1spt-BR!2sbr!4v1498682674302\" style=\"border:0\" width=\"600\"></iframe></p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/a95e2c4de2.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 27,
+    "title": null,
+    "description": "<p>ÓTIMA OPÇÃO DE INVESTIMENO, de frente para a BR 277, no perímetro urbano, com 18.000m&sup2; com frente de 91metros, podendo ser feito desmembramento com chácaras de 3.000m&sup2;.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"450\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.802742960141!2d-54.4085780429655!3d-25.447927988260222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI2JzUyLjUiUyA1NMKwMjQnMjQuMiJX!5e1!3m2!1spt-BR!2sbr!4v1498685211016\" style=\"border:0\" width=\"600\"></iframe></p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/cb28c592fa.JPG",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 26,
+    "title": null,
+    "description": "<p>Chácara com ótima localização e valor, com 4.112m&sup2;, na parte alta da estrada, no perímetro urbano da cidade.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/9406e23af4.JPG",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 25,
+    "title": null,
+    "description": "<p>CONDOMÍNIO FECHADO RESIDENCIAL IPÊ, com apenas 27 Terrenos, com várias medidas, ótimo padrão, no centro da cidade com medidas a partir de 680m&sup2;.&nbsp; Podendo ser parcelado.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"450\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2625.829425482484!2d-54.40798793302611!3d-25.444084991940084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI2JzM4LjciUyA1NMKwMjQnMjMuMiJX!5e1!3m2!1spt-BR!2sbr!4v1498682268391\" style=\"border:0\" width=\"600\"></iframe></p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/4db80b754d.jpg",
+    "details": {
+      "dormitorios": 0,
+      "banheiros": null,
+      "garagem": 0,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  },
+  {
+    "code": 19,
+    "title": null,
+    "description": "<p>Casa com localização central, excelente área para Comércio com terreno com 350m&sup2;, sendo que a residência possui, 03 quartos, 02 salas, cozinha, banheiro e garagem.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/ded936ee6e.jpg",
+    "details": {
+      "dormitorios": 3,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 2,
+      "cozinha": 1,
+      "suite": 0
+    }
+  },
+  {
+    "code": 14,
+    "title": null,
+    "description": "<p>Casa Geminada com 02 quartos sendo 01 com mobília, 01 sala, 01 cozinha mobiliada, 01 banheiro, 01 lavanderia e uma vaga para veículo não coberta.</p>\r\n",
+    "image": "https://www.imobiliariam3.com/images/items/g/d1ebbff331.jpg",
+    "details": {
+      "dormitorios": 2,
+      "banheiros": null,
+      "garagem": 1,
+      "sala": 0,
+      "cozinha": 0,
+      "suite": 0
+    }
+  }
+]
 }
